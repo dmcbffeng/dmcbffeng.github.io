@@ -18,7 +18,7 @@
 
   <title>Blog | Fan Feng Personal Website</title>
 
-  <link rel="shortcut icon" href="assets/images/gt_favicon.png">
+  <link rel="shortcut icon" href="../assets/images/gt_favicon.png">
 
   <!-- Bootstrap -->
   <link href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.no-icons.min.css" rel="stylesheet">
@@ -37,62 +37,36 @@
   <div id="head" class="parallax" parallax-speed="2">
     <h1 id="logo" class="text-center">
       <img class="img-circle" src="../assets/images/fan_portrait.jpg" alt="">
-      <span class="title">Fan Feng (封凡)</span>
+      <span class="title">Fan Feng</span>
       <span class="tagline">
-				Ph.D. candidate<br>
-				Department of Computational Medicine and Bioinformatics, University of Michigan<br>
-				密歇根大学 计算药物学与生物信息学系 博士生<br>
+				Research Fellow<br>
+				Department of Medicine, Vanderbilt University Medical Center<br>
 				<br>
-				Alumni<br>
-				College of Chemistry and Molecular Engineering, Peking University<br>
-				北京大学 化学与分子工程学院 毕业生
+				Ph.D. in Bioinformatics, University of Michigan - Ann Arbor<br>
+				B.Sc. in Chemical Biology, Peking University
 			</span>
-      <!--<a href="">fanfeng@umich.edu</a></span> -->
     </h1>
   </div>
 
   <nav class="navbar navbar-default navbar-sticky">
     <div class="container-fluid">
-
       <div class="navbar-header">
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
       </div>
-
-      <div class="navbar-collapse collapse">
-
+      
+      <div class="navbar-collapse collapse" id="bs-example-navbar-collapse-1">
         <ul class="nav navbar-nav">
-          <li class="active"><a href="../index.html">
-            Home<br>
-            主页
-          </a></li>
-          <li class="dropdown">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-              Resume<br>
-              简历
-              <b class="caret"></b>
-            </a>
-            <ul class="dropdown-menu">
-              <li><a href="../cv_english.html">English Version 英文版</a></li>
-              <li><a href="../cv_chinese.html">Chinese Version 中文版</a></li>
-            </ul>
-          </li>
-          <li><a href="../about.html">
-            Activities<br>
-            动态
-          </a></li>
-          <li><a href="../blog.html">
-            Blog & Vlog<br>
-            博客 & 视频
-          </a></li>
+          <li><a href="../index.html">Home</a></li>
+          <li><a href="../cv_english.html">Resume</a></li>
+          <li><a href="../blog.html">Activities</a></li>
+          <li class="pull-right"><a href="schictools_cn.html">中文</a></li>
         </ul>
-
-      </div><!--/.nav-collapse -->
-    </div>
+      </div><!--/.nav-collapse -->			
+    </div>	
   </nav>
 </header>
 
 <main id="main">
-
   <div class="container">
     <div class="row topspace">
       <div class="col-sm-10 col-sm-offset-1">
@@ -106,46 +80,44 @@
           </header>
           <div class="entry-content">
             <p>
-              Single-cell Hi-C (scHi-C) sequencing technologies allow us to investigate three-dimensional chromatin organization at the single-cell level. However, we still need computational tools to deal with the sparsity of the contact maps from single cells and embed single cells in a lower-dimensional Euclidean space. This embedding helps us understand relationships between the cells in different dimensions, such as cell-cycle dynamics and cell differentiation. We present an open-source computational toolbox, scHiCTools, for analyzing single-cell Hi-C data comprehensively and efficiently. The toolbox provides two methods for screening single cells, three common methods for smoothing scHi-C data, three efficient methods for calculating the pairwise similarity of cells, three methods for embedding single cells, three methods for clustering cells, and a build-in function to visualize the cells embedding in a two-dimensional or three-dimensional plot. scHiCTools, written in Python3, is compatible with different platforms, including Linux, macOS, and Windows.
+              scHiCTools is a computational toolbox for analyzing single-cell Hi-C data.
+              It provides a comprehensive set of tools for processing, analyzing, and visualizing single-cell Hi-C data.
+              The toolbox includes methods for quality control, normalization, dimensionality reduction, clustering, and visualization.
+            </p>
+            <p>
+              The toolbox is implemented in Python and R, and is compatible with both command-line and graphical user interfaces.
+              It supports various data formats and can be easily integrated with existing analysis pipelines.
+              The toolbox is available as open-source software and includes detailed documentation and tutorials.
             </p>
           </div>
           <div class="entry-content">
-            <p><img alt="" src="../assets/images/blog_picture/202105_scHiCTools.PNG"></p>
+            <p><img alt="" src="../assets/images/blog_picture/202105_scHiCTools.png"></p>
           </div>
-          <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008978" class="more-link">Link to the paper&#8230;</a><br>
-          <a href="https://github.com/liu-bioinfo-lab/scHiCTools" class="more-link">Link to the tool&#8230;</a><br>
+          <a href="https://www.nature.com/articles/s41467-021-23014-1" class="more-link">Link to the paper&#8230;</a><br>
+          <a href="https://github.com/liu-bioinfo-lab/scHiCTools" class="more-link">Link to the code&#8230;</a><br>
         </article>
-
       </div>
     </div>
-  </div>	<!-- /container -->
-
+  </div>
 </main>
 
 <footer id="footer">
   <div class="container">
     <div class="row">
       <div class="col-md-3 widget">
-        <h3 class="widget-title">
-          Contact<br>
-          联系我
-        </h3>
+        <h3 class="widget-title">Contact</h3>
         <div class="widget-body">
-          <p>E-mail 邮箱:<br>
+          <p>E-mail:<br>
             <a href="mailto:#">fanfeng@umich.edu</a><br>
             <br>
-            Address 地址:<br>
+            Address:<br>
             Palmer Commons 2035, 100 Washtenaw Ave., Ann Arbor, MI 48109
-            <br>
           </p>
         </div>
       </div>
 
       <div class="col-md-3 widget">
-        <h3 class="widget-title">
-          Follow me<br>
-          关注我
-        </h3>
+        <h3 class="widget-title">Follow me</h3>
         <div class="widget-body">
           <p class="follow-me-icons">
             <a href="https://www.linkedin.com/in/fan-feng-974842120/"><i class="fa fa-linkedin fa-2"></i></a>
@@ -157,34 +129,26 @@
       </div>
 
       <div class="col-md-3 widget">
-        <h3 class="widget-title">
-          Thanks for visiting<br>
-          感谢来访！
-        </h3>
+        <h3 class="widget-title">Thanks for visiting!</h3>
         <div class="widget-body">
-          <p> </p>
+          <p></p>
         </div>
       </div>
-
-    </div> <!-- /row of widgets -->
+    </div>
   </div>
 </footer>
 
 <footer id="underfooter">
   <div class="container">
     <div class="row">
-
       <div class="col-md-6 widget">
         <div class="widget-body">
           <p>Template: Initio by GetTemplate</p>
         </div>
       </div>
-
-    </div> <!-- /row of widgets -->
+    </div>
   </div>
 </footer>
-
-
 
 <!-- JavaScript libs are placed at the end of the document so the pages load faster -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>

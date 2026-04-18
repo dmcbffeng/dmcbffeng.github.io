@@ -1,0 +1,5 @@
+<svg width="1200" height="700" viewBox="0 0 1200 700" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="700" fill="#10213D"/>
+  <rect x="80" y="80" width="1040" height="540" rx="24" fill="#17335A" stroke="#4D82C7"/>
+  <text x="600" y="350" fill="#D6E9FF" font-family="Inter, Arial, sans-serif" font-size="48" text-anchor="middle">Replace with project figure</text>
+</svg>

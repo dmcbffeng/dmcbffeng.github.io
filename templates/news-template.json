@@ -1,0 +1,8 @@
+{
+  "date": "YYYY-MM-DD",
+  "text": {
+    "en": "Plain-text news in English (no HTML).",
+    "zh": "中文简讯（纯文本）。"
+  },
+  "url": "https://optional-url.example.com"
+}

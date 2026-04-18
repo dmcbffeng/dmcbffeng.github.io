@@ -1,0 +1,542 @@
+[
+  {
+    "id": "pediatric-islet-2026",
+    "date": "2026-04-02",
+    "tag": { "en": "Islet biology · Imaging", "zh": "胰岛生物学 · 成像" },
+    "title": {
+      "en": "Mapping histological and functional maturation of the human endocrine pancreas across early postnatal periods",
+      "zh": "绘制人类内分泌胰腺在出生后早期与儿童期的组织学与功能成熟图谱"
+    },
+    "summary": {
+      "en": "A spatiotemporal atlas of 123 pediatric pancreata from birth through age 10 — integrating multiplex imaging and functional assays to describe how human islets form and mature.",
+      "zh": "基于 123 例儿童胰腺样本，从出生到 10 岁的时空图谱：整合多重成像与功能实验，刻画人类胰岛的形成与成熟。"
+    },
+    "cover": "assets/images/work/pediatric.png",
+    "sections": [
+      {
+        "heading": { "en": "Project overview", "zh": "项目概述" },
+        "text": {
+          "en": "Human endocrine cell differentiation and islet morphogenesis play critical roles in determining islet cell mass and function, yet the events and timeline of these processes remain incompletely defined. In this study we collected 123 pediatric pancreata and mapped morphological and spatiotemporal changes from birth through the first ten years of life.",
+          "zh": "人类内分泌细胞分化与胰岛形态发生是决定胰岛细胞数量与功能的关键环节，但相关事件与时间线仍不清晰。本研究收集了 123 例儿童胰腺样本，系统绘制了从出生到 10 岁的形态学与时空变化。"
+        }
+      },
+      {
+        "heading": {
+          "en": "Imaging + analysis pipeline",
+          "zh": "成像与分析流程"
+        },
+        "text": {
+          "en": "Using complementary tissue-imaging approaches — confocal microscopy and whole-slide multiplex imaging — combined with quantitative analyses, we built an integrated model of endocrine cell formation and islet architecture. The model captures endocrine cell-type heterogeneity and abundance, proliferation, and islet vascularization and innervation.",
+          "zh": "我们结合共聚焦显微成像与全切片多重成像（multiplex imaging），在此基础上进行定量分析，构建出关于内分泌细胞形成与胰岛结构的整合模型，涵盖细胞类型异质性、丰度、增殖，以及胰岛的血管化与神经支配。"
+        }
+      },
+      {
+        "heading": { "en": "Functional maturation", "zh": "功能成熟特征" },
+        "text": {
+          "en": "In parallel, we assessed insulin and glucagon secretory profiles in isolated islet preparations from pediatric donors aged 2 months to 10 years, and found a temporal difference between the maturation of insulin secretion and glucagon secretion.",
+          "zh": "同时，我们在 2 月龄至 10 岁的儿童供体胰岛中测定了胰岛素与胰高血糖素的分泌曲线，发现胰岛素分泌与胰高血糖素分泌在成熟时间上存在差异。"
+        }
+      },
+      {
+        "heading": { "en": "Why it matters", "zh": "研究价值" },
+        "text": {
+          "en": "This is one of the most comprehensive atlases of postnatal and pediatric human pancreatic islet development to date. It provides a reference framework for integrating emerging genetic and genomic data about islet biology and diabetes risk.",
+          "zh": "这是迄今为止关于出生后与儿童期人类胰岛发育最系统的图谱之一，为整合胰岛生物学与糖尿病风险相关的遗传 / 基因组数据提供了参考框架。"
+        }
+      },
+      {
+        "heading": { "en": "My contribution", "zh": "我的贡献" },
+        "text": {
+          "en": "As a co-first author, I led all large-scale data analysis for this work — including quantitative analysis of confocal and whole-slide multiplex imaging, cross-age spatiotemporal modeling, and integration of imaging measurements with functional islet data.",
+          "zh": "作为共同第一作者，我负责本项工作中全部大规模数据分析，包括共聚焦与全切片多重成像的定量分析、跨年龄段的时空建模，以及将成像测量与胰岛功能数据进行整合。"
+        }
+      },
+      {
+        "heading": { "en": "Status", "zh": "当前进展" },
+        "text": {
+          "en": "Accepted in principle at Nature Communications (2026). Full citation: Saunders, D. C.*, Feng, F.*, Hopkirk, A. E.*, Aamodt, K. I.*, Hart, N.*, Pan, F. C.*, …, Wright, C. V. E., Powers, A. C. & Brissova, M. (*co-first authors)",
+          "zh": "已被 Nature Communications 原则上接收（2026 年）。完整引用：Saunders, D. C.*, Feng, F.*, Hopkirk, A. E.*, Aamodt, K. I.*, Hart, N.*, Pan, F. C.*, …, Wright, C. V. E., Powers, A. C. & Brissova, M. （*共同第一作者）"
+        }
+      }
+    ],
+    "links": [
+      {
+        "label": {
+          "en": "Nature Communications (journal)",
+          "zh": "Nature Communications 期刊主页"
+        },
+        "url": "https://www.nature.com/ncomms/"
+      },
+      {
+        "label": { "en": "Brissova Lab", "zh": "Brissova 实验室" },
+        "url": "https://www.powersbrissovaresearch.org/"
+      }
+    ],
+    "gallery": [
+      {
+        "src": "assets/images/work/pediatric.png",
+        "alt": {
+          "en": "Pediatric pancreas spatiotemporal atlas",
+          "zh": "儿童胰腺时空图谱"
+        }
+      }
+    ]
+  },
+  {
+    "id": "quagga-2025",
+    "date": "2025-09-01",
+    "tag": { "en": "3D genome · Algorithm", "zh": "三维基因组 · 算法" },
+    "title": {
+      "en": "Statistically rigorous and computationally efficient chromatin stripe detection with Quagga",
+      "zh": "Quagga：统计严谨且高效的染色质 stripe 检测工具"
+    },
+    "summary": {
+      "en": "A lightweight, interpretable caller that finds architectural stripes in Hi-C, Micro-C, HiChIP and RCMC data, with rigorous significance testing and accurate stripe width/length estimation.",
+      "zh": "一个轻量、可解释的染色质 stripe 检测工具，适用于 Hi-C / Micro-C / HiChIP / RCMC 数据，同时提供严谨的显著性检验与准确的 stripe 宽度和长度估计。"
+    },
+    "cover": "assets/images/work/quagga_fig1.png",
+    "sections": [
+      {
+        "heading": { "en": "Motivation", "zh": "研究动机" },
+        "text": {
+          "en": "Chromatin stripes are architectural features in which a single loop anchor interacts with a contiguous stretch of DNA, appearing as long stripes on contact matrices. They have been implicated in gene regulation and cell-lineage determination, but existing callers (Zebra, Stripenn, StripeDiff) each have well-known blind spots — e.g. confusing TAD boundaries for stripes, fixed stripe widths, or weak statistical power.",
+          "zh": "染色质 stripe 指单个 loop 锚点与一段连续 DNA 相互作用、在接触矩阵上呈现为长条形的结构特征，被认为参与基因调控与细胞命运决定。但现有工具（Zebra、Stripenn、StripeDiff）各有盲区：容易把 TAD 边界误判为 stripe、stripe 宽度固定、或统计效力不足。"
+        }
+      },
+      {
+        "heading": { "en": "What Quagga does", "zh": "Quagga 的方法" },
+        "text": {
+          "en": "Quagga combines Gabor / Gaussian kernel filtering with 1D peak finding to quickly screen candidate stripes and estimate their widths, and then applies per-pixel Poisson significance testing against flanking backgrounds to decide stripe length and enrichment — with no arbitrary \"stripiness\" score. Cached statistics let it test millions of candidate positions efficiently.",
+          "zh": "Quagga 先用 Gabor/Gaussian 核滤波加一维峰值搜索快速筛选候选 stripe 并估计宽度，再对每个像素做基于 Poisson 分布的显著性检验（相对于两侧 flanking 背景），由此确定 stripe 的长度与富集程度，无需引入人为的 \"stripiness\" 指标；统计量的缓存使其能够高效地检验数百万个候选位置。"
+        }
+      },
+      {
+        "heading": { "en": "Key results", "zh": "主要结果" },
+        "text": {
+          "en": "On GM12878 Hi-C at 10 kb resolution, Quagga calls ~4× more stripes than Stripenn and delivers the highest CTCF/RAD21 enrichment at anchors, while keeping indeterminate (likely false-positive) calls to below 10%. Quagga works across Hi-C, Micro-C, HiChIP, RCMC and CTCF-degradation experiments, and stays reliable at sequencing depths as low as 250 M filtered read pairs.",
+          "zh": "在 10 kb 分辨率的 GM12878 Hi-C 上，Quagga 检测到的 stripe 数量约为 Stripenn 的 4 倍，同时其锚点处的 CTCF/RAD21 富集最强，\"不可判定\"（很可能为假阳性）的 stripe 比例低于 10%。Quagga 适用于 Hi-C、Micro-C、HiChIP、RCMC 以及 CTCF 降解等多种数据，并在 2.5 亿 filtered read pair 的较低测序深度下依然可靠。"
+        }
+      },
+      {
+        "heading": { "en": "My contribution", "zh": "我的贡献" },
+        "text": {
+          "en": "Co-first author. I led the algorithm design and implementation (Stripe screening, Poisson significance testing), benchmarking against Zebra and Stripenn, and the analysis on Hi-C, Micro-C, HiChIP and RCMC datasets.",
+          "zh": "共同第一作者。我主导了算法设计与实现（Stripe筛选、Poisson 显著性检验）、与 Zebra / Stripenn 的基准比较，以及在 Hi-C / Micro-C / HiChIP / RCMC 上的分析。"
+        }
+      },
+      {
+        "heading": { "en": "Citation", "zh": "引用" },
+        "text": {
+          "en": "Feng, F.*, Moran, S. P.*, Hansen, A. S., Zhang, X. & Liu, J. (2025). Statistically rigorous and computationally efficient chromatin stripe detection with Quagga. Genome Research, 36(1): 159–168. (*co-first authors)",
+          "zh": "Feng, F.*, Moran, S. P.*, Hansen, A. S., Zhang, X. & Liu, J. (2025). Statistically rigorous and computationally efficient chromatin stripe detection with Quagga. Genome Research, 36(1): 159–168. （*共同第一作者）"
+        }
+      }
+    ],
+    "links": [
+      {
+        "label": {
+          "en": "Paper (Genome Research)",
+          "zh": "论文（Genome Research）"
+        },
+        "url": "https://genome.cshlp.org/content/36/1/159.full"
+      }
+    ],
+    "gallery": [
+      {
+        "src": "assets/images/work/quagga_fig1.png",
+        "alt": {
+          "en": "Quagga workflow for chromatin stripe detection",
+          "zh": "Quagga 染色质 stripe 检测流程示意"
+        }
+      }
+    ]
+  },
+  {
+    "id": "pankbase-pankgraph-2025",
+    "date": "2025-06-18",
+    "tag": { "en": "Knowledge base · Diabetes", "zh": "知识库 · 糖尿病" },
+    "title": {
+      "en": "PanKbase & PanKgraph: a knowledge base for human pancreas and diabetes research",
+      "zh": "PanKbase 与 PanKgraph：面向人类胰腺与糖尿病研究的知识库"
+    },
+    "summary": {
+      "en": "A community resource that harmonizes donor metadata, single-cell maps, genome browsers, differential expression and islet-relevant QTLs across HPAP, IIDP, Prodo, ADI IsletCore, nPOD and Pancreatlas — with PanKgraph providing a graph view of pancreas/islet QTLs.",
+      "zh": "PanKbase 是面向胰腺与糖尿病研究社区的共享资源，整合并标准化了 HPAP、IIDP、Prodo、ADI IsletCore、nPOD、Pancreatlas 的供体元数据、单细胞图谱、基因组浏览器、差异表达以及胰岛相关 QTL；PanKgraph 以图形式呈现胰腺 / 胰岛的 QTL 关系。"
+    },
+    "cover": "assets/images/work/pankgraph.png",
+    "sections": [
+      {
+        "heading": { "en": "What PanKbase is", "zh": "PanKbase 是什么" },
+        "text": {
+          "en": "PanKbase is a centralized knowledge base for the human pancreas, built for the diabetes research community. It brings together data from >3,500 donors across HPAP, IIDP, Prodo, ADI IsletCore, nPOD and Pancreatlas, and exposes them through harmonized metadata, integrated single-cell maps, a genome browser, a gene browser, differential-expression browsers, a PCA explorer, an analytical library and APIs. It is funded by NIH grants U24 DK138515 and U24 DK138512, with support from the NIH Office of Data Science Strategies.",
+          "zh": "PanKbase 是面向糖尿病研究社区、聚焦人类胰腺的集中式知识库。它整合了来自 HPAP、IIDP、Prodo、ADI IsletCore、nPOD、Pancreatlas 共 3500 余名供体的数据，通过标准化的元数据、整合的单细胞图谱、基因组浏览器、基因浏览器、差异表达浏览器、PCA 探索工具、分析库以及 API 对外开放。项目由 NIH 资助（U24 DK138515、U24 DK138512），并获得 NIH 数据科学战略办公室的补充支持。"
+        }
+      },
+      {
+        "heading": {
+          "en": "PanKgraph: a QTL knowledge graph",
+          "zh": "PanKgraph：QTL 知识图谱"
+        },
+        "text": {
+          "en": "PanKgraph layers a queryable knowledge graph on top of PanKbase that links genes, variants and quantitative trait loci (QTLs) in pancreatic and islet tissues, making it easy to follow a gene from expression through cis-regulation to disease associations within a single view.",
+          "zh": "PanKgraph 在 PanKbase 之上构建了可查询的知识图谱，关联基因、变异与胰腺 / 胰岛组织中的数量性状位点（QTL），让研究者能够在同一视图下从基因的表达出发，追踪其顺式调控以及疾病关联。"
+        }
+      },
+      {
+        "heading": {
+          "en": "Integrated cell browser",
+          "zh": "整合单细胞浏览器"
+        },
+        "text": {
+          "en": "PanKbase hosts single-cell gene-expression and chromatin-accessibility maps aggregated from >100 human donors across HPAP, IIDP and Prodo — supporting cross-study comparisons that would otherwise require re-processing raw data from multiple programs.",
+          "zh": "PanKbase 聚合了 HPAP、IIDP、Prodo 等项目中 100 余名人类供体的单细胞基因表达与染色质开放性图谱，支持跨研究比较，免去了研究者从多个项目重新处理原始数据的繁琐流程。"
+        }
+      },
+      {
+        "heading": { "en": "My role", "zh": "我的角色" },
+        "text": {
+          "en": "I am on the PanKbase development team. My work focuses on data integration across donor programs and on the computational backbone behind PanKgraph and the analytical library.",
+          "zh": "我是 PanKbase 开发团队成员，主要参与跨项目供体数据整合，以及 PanKgraph 与分析库背后的计算框架搭建。"
+        }
+      },
+      {
+        "heading": { "en": "Status", "zh": "当前状态" },
+        "text": {
+          "en": "PanKbase launched in beta at ADA Scientific Sessions 2025 (Chicago). A PanKbase / PanKgraph webinar is scheduled for April 23, 2026.",
+          "zh": "PanKbase 于 2025 年 ADA 科学会议（芝加哥）以 Beta 版本发布；PanKbase / PanKgraph 公开网络研讨会定于 2026 年 4 月 23 日举办。"
+        }
+      }
+    ],
+    "links": [
+      {
+        "label": { "en": "pankbase.org", "zh": "pankbase.org" },
+        "url": "https://pankbase.org/"
+      },
+      {
+        "label": { "en": "PanKgraph", "zh": "PanKgraph" },
+        "url": "https://pankbase.org/PanKgraph.html"
+      },
+      {
+        "label": { "en": "PanKbase GitHub", "zh": "PanKbase GitHub" },
+        "url": "https://github.com/PanKbase"
+      }
+    ],
+    "gallery": [
+      {
+        "src": "assets/images/work/pankgraph.png",
+        "alt": {
+          "en": "PanKgraph knowledge graph for pancreatic QTLs",
+          "zh": "PanKgraph：胰腺 QTL 知识图谱"
+        }
+      }
+    ]
+  },
+  {
+    "id": "rcmc-cleopatra-2025",
+    "date": "2025-05-07",
+    "tag": { "en": "3D genome · Deep learning", "zh": "三维基因组 · 深度学习" },
+    "title": {
+      "en": "Genome structure mapping with high-resolution 3D genomics and deep learning (RCMC + Cleopatra)",
+      "zh": "基于高分辨率三维基因组学与深度学习的基因组结构图谱（RCMC + Cleopatra）"
+    },
+    "summary": {
+      "en": "Ultra-deep Region Capture Micro-C (RCMC) paired with Cleopatra — an attention-based deep-learning model — to predict sub-kilobase 3D contact maps genome-wide and uncover cell-type-specific microcompartments and >900,000 loops across four human cell types.",
+      "zh": "将超深测序的 Region Capture Micro-C（RCMC）与基于注意力机制的深度学习模型 Cleopatra 结合，在亚千碱基分辨率下预测全基因组三维接触图谱，在四种人类细胞类型中揭示细胞类型特异的 microcompartment 与超过 90 万个 loop。"
+    },
+    "cover": "assets/images/work/cleopatra.jpg",
+    "sections": [
+      {
+        "heading": { "en": "Motivation", "zh": "研究动机" },
+        "text": {
+          "en": "Gene expression is often regulated by distal enhancers through cell-type-specific 3D looping interactions, but experimentally mapping every enhancer–promoter loop across every cell type is intractable. We set out to build a framework where modest amounts of ultra-high-resolution contact data could be scaled across the genome through deep learning.",
+          "zh": "远端增强子常常通过细胞类型特异的三维 loop 与基因启动子互作以调控表达，但要在每种细胞类型中实验性地刻画全部增强子–启动子 loop 是不现实的。本研究希望建立一套框架：用少量超高分辨率的接触数据，通过深度学习扩展到全基因组尺度。"
+        }
+      },
+      {
+        "heading": {
+          "en": "Data: ultra-deep RCMC + Micro-C",
+          "zh": "数据：超深测序 RCMC + Micro-C"
+        },
+        "text": {
+          "en": "We generated ultra-deep Region Capture Micro-C (RCMC) and Micro-C data specifically designed as training signal for modern deep-learning architectures, producing contact maps at sub-kilobase resolution across multiple human cell types.",
+          "zh": "我们生成了专为现代深度学习架构设计的超深测序 RCMC 与 Micro-C 数据，在多种人类细胞类型中获得了亚千碱基分辨率的接触图谱，用作模型的训练信号。"
+        }
+      },
+      {
+        "heading": { "en": "Cleopatra model", "zh": "Cleopatra 模型" },
+        "text": {
+          "en": "Cleopatra is an attention-based deep-learning model that takes epigenomic inputs, is pre-trained on genome-wide Micro-C, and then fine-tuned on high-resolution RCMC. It predicts 3D contact maps at sub-kilobase bin sizes and, at inference time, produces ultra-high-resolution genome-wide 3D maps across four human cell types.",
+          "zh": "Cleopatra 是一个基于注意力机制的深度学习模型：以表观组信息作为输入，先在全基因组 Micro-C 上进行预训练，再用高分辨率 RCMC 微调；能够以亚千碱基 bin 预测三维接触图谱，并在推理阶段跨四种人类细胞类型生成超高分辨率的全基因组三维图谱。"
+        }
+      },
+      {
+        "heading": { "en": "Biological findings", "zh": "生物学发现" },
+        "text": {
+          "en": "Cleopatra maps revealed cell-type-specific microcompartments and more than 900,000 loops across the four cell types (about half of which are cell-type-specific). Promoters form roughly a dozen loops on average, and expression increases monotonically with loop count, showing that looping is tightly coupled to higher gene expression. Enhancer–promoter loops are often anchored by CTCF, and we also nominate additional transcription factors that may drive cell-type-specific enhancer–promoter interactions.",
+          "zh": "Cleopatra 预测的图谱在四种细胞类型中揭示了细胞类型特异的 microcompartment 以及超过 90 万个 loop（其中约一半为细胞类型特异）。平均每个启动子形成约十余个 loop，基因表达量随 loop 数量单调升高，表明 looping 与更高的基因表达密切相关；增强子–启动子 loop 常由 CTCF 锚定，同时我们还提示了一批可能驱动细胞类型特异增强子–启动子互作的转录因子。"
+        }
+      },
+      {
+        "heading": { "en": "My contribution", "zh": "我的贡献" },
+        "text": {
+          "en": "Co-first author. I designed and implemented Cleopatra.",
+          "zh": "共同第一作者。我是 Cleopatra 的模型设计与实现者。"
+        }
+      },
+      {
+        "heading": { "en": "Status", "zh": "当前进展" },
+        "text": {
+          "en": "Preprint: Hong, C. K. Y.*, Feng, F.*, Ramanathan, V., Liu, J. & Hansen, A. S. (2025). Genome structure mapping with high-resolution 3D genomics and deep learning. bioRxiv 2025.05.06.650874. (*co-first authors). Manuscript is currently under revision at Nature Genetics.",
+          "zh": "预印本：Hong, C. K. Y.*, Feng, F.*, Ramanathan, V., Liu, J. & Hansen, A. S. (2025). Genome structure mapping with high-resolution 3D genomics and deep learning. bioRxiv 2025.05.06.650874. （*共同第一作者）。论文当前在 Nature Genetics 修稿中。"
+        }
+      }
+    ],
+    "links": [
+      {
+        "label": { "en": "Preprint (bioRxiv)", "zh": "预印本（bioRxiv）" },
+        "url": "https://www.biorxiv.org/content/10.1101/2025.05.06.650874v1"
+      },
+      {
+        "label": {
+          "en": "Model artifacts (Zenodo)",
+          "zh": "模型与结果（Zenodo）"
+        },
+        "url": "https://zenodo.org/records/15303879"
+      },
+      {
+        "label": { "en": "Data artifacts (Zenodo)", "zh": "数据（Zenodo）" },
+        "url": "https://zenodo.org/records/15299993"
+      }
+    ],
+    "gallery": [
+      {
+        "src": "assets/images/work/cleopatra.jpg",
+        "alt": {
+          "en": "Cleopatra-predicted 3D contact map at sub-kilobase resolution",
+          "zh": "Cleopatra 预测的亚千碱基分辨率三维接触图谱"
+        }
+      }
+    ]
+  },
+  {
+    "id": "fingerprint-2025",
+    "date": "2025-06-18",
+    "tag": { "en": "Imaging · ML", "zh": "成像 · 机器学习" },
+    "title": {
+      "en": "Multiplexed image analysis of human pancreatic islets",
+      "zh": "人类胰岛的多重成像分析"
+    },
+    "summary": {
+      "en": "Image-driven computational analysis for pancreatic islet biology, presented at ADA Scientific Sessions 2025.",
+      "zh": "用于胰岛生物学的影像驱动计算分析，2025 年 ADA 科学会议海报展示。"
+    },
+    "cover": "assets/images/work/multiplexed_islet.png",
+    "sections": [
+      {
+        "heading": { "en": "Project overview", "zh": "项目概述" },
+        "text": {
+          "en": "Machine-learning-assisted analysis of multiplexed human pancreas images. The workflow integrates image preprocessing, cell-level signal extraction, and spatial neighborhood analysis to characterize endocrine microenvironments.",
+          "zh": "通过机器学习分析人类胰腺多重成像数据，涵盖图像预处理、细胞级信号提取和空间邻域分析，系统刻画内分泌微环境。"
+        }
+      },
+      {
+        "heading": { "en": "Why it matters", "zh": "研究价值" },
+        "text": {
+          "en": "Multiplexed imaging captures rich molecular context that conventional assays miss. The pipeline improves interpretability and reproducibility for disease-associated patterns in diabetes research.",
+          "zh": "多重成像提供传统实验难以覆盖的分子上下文，流程本身提升了可解释性和可复现性，有助于发现糖尿病相关的关键模式。"
+        }
+      },
+      {
+        "heading": { "en": "Current status", "zh": "当前进展" },
+        "text": {
+          "en": "Presented as a poster at the 2025 ADA Scientific Sessions in Chicago. Ongoing work extends the framework to larger cohorts and cross-sample harmonization.",
+          "zh": "已在 2025 年 ADA 科学会议（芝加哥）完成海报展示，后续将扩展到更大样本规模并加强跨样本一致性分析。"
+        }
+      }
+    ],
+    "links": [
+      {
+        "label": { "en": "ADA Scientific Sessions", "zh": "ADA 科学会议" },
+        "url": "https://professional.diabetes.org/scientific-sessions"
+      }
+    ],
+    "gallery": [
+      {
+        "src": "assets/images/work/multiplexed_islet.png",
+        "alt": { "en": "Multiplexed islet imaging", "zh": "多重胰岛成像" }
+      },
+      {
+        "src": "assets/images/work/fingerprint.png",
+        "alt": { "en": "Spatial fingerprint analysis", "zh": "空间特征分析" }
+      }
+    ]
+  },
+  {
+    "id": "genomickb-2023",
+    "date": "2023-04-06",
+    "tag": { "en": "Knowledge Graph", "zh": "知识图谱" },
+    "title": {
+      "en": "GenomicKB: a knowledge graph for the human genome",
+      "zh": "GenomicKB：人类基因组的知识图谱"
+    },
+    "summary": {
+      "en": "A unified machine-readable graph linking loci, genes, regulatory elements, and functions across 30+ consortia.",
+      "zh": "统一的机器可读图谱，将位点、基因、调控元件与功能关联，整合 30+ 联盟数据。"
+    },
+    "cover": "assets/images/work/genomickb.png",
+    "sections": [
+      {
+        "heading": { "en": "Core idea", "zh": "核心思路" },
+        "text": {
+          "en": "GenomicKB represents genomic entities and relations in a unified knowledge graph, linking loci, genes, regulatory elements, phenotypes, and functional evidence into a machine-readable structure.",
+          "zh": "GenomicKB 在统一知识图谱中表达基因组实体与关系，将位点、基因、调控元件、表型和功能证据组织为机器可读结构。"
+        }
+      },
+      {
+        "heading": { "en": "Impact", "zh": "研究价值" },
+        "text": {
+          "en": "Consolidates data from 30+ consortia and portals, enabling flexible low-code queries across multi-modal genomic evidence and supporting AI-assisted discovery.",
+          "zh": "整合 30+ 联盟与数据库资源，支持低代码跨模态查询，并为 AI 辅助生物学发现提供知识底座。"
+        }
+      },
+      {
+        "heading": { "en": "Scale", "zh": "数据规模" },
+        "text": {
+          "en": "Hundreds of millions of genomic entities and billions of relations/properties, designed for scalable update and exploration.",
+          "zh": "包含数亿级实体和数十亿级关系/属性，支持可扩展的更新与探索。"
+        }
+      }
+    ],
+    "links": [
+      {
+        "label": {
+          "en": "Paper (Nucleic Acids Research)",
+          "zh": "论文（Nucleic Acids Research）"
+        },
+        "url": "https://academic.oup.com/nar/article/51/D1/D950/6786196"
+      },
+      {
+        "label": { "en": "GenomicKB website", "zh": "GenomicKB 网站" },
+        "url": "https://gkb.dcmb.med.umich.edu"
+      }
+    ],
+    "gallery": [
+      {
+        "src": "assets/images/work/genomickb.png",
+        "alt": { "en": "GenomicKB overview", "zh": "GenomicKB 概览" }
+      }
+    ]
+  },
+  {
+    "id": "caesar-2022",
+    "date": "2022-04-30",
+    "tag": { "en": "Deep Learning · 3D Genome", "zh": "深度学习 · 三维基因组" },
+    "title": {
+      "en": "CAESAR: connecting 3D chromatin structure with epigenomics",
+      "zh": "CAESAR：连接三维染色质结构与表观遗传学"
+    },
+    "summary": {
+      "en": "Interpretable framework for predicting high-resolution 3D chromatin organization from sequence and epigenomic signals.",
+      "zh": "从序列与表观遗传特征预测高分辨率三维染色质结构的可解释框架。"
+    },
+    "cover": "assets/images/work/caesar.png",
+    "sections": [
+      {
+        "heading": { "en": "Technical contribution", "zh": "技术贡献" },
+        "text": {
+          "en": "CAESAR is an interpretable deep-learning framework that predicts high-resolution 3D chromatin organization from sequence and epigenomic signals, reducing dependence on costly experimental assays.",
+          "zh": "CAESAR 是可解释的深度学习框架，利用序列与表观遗传特征预测高分辨率三维染色质结构，降低对高成本实验的依赖。"
+        }
+      },
+      {
+        "heading": { "en": "Model design", "zh": "模型设计" },
+        "text": {
+          "en": "The method captures long-range genomic dependencies through neural architectures and infers contact patterns linked to regulation.",
+          "zh": "通过深度神经网络建模长程基因组依赖，推断与调控相关的接触模式。"
+        }
+      },
+      {
+        "heading": { "en": "Research value", "zh": "科研意义" },
+        "text": {
+          "en": "CAESAR helps prioritize biologically meaningful regions for downstream experiments and supports mechanistic interpretation of genome regulation.",
+          "zh": "CAESAR 可用于优先筛选具有生物学意义的区域，支持后续实验设计与基因组调控机制解读。"
+        }
+      }
+    ],
+    "links": [
+      {
+        "label": {
+          "en": "Paper (Nature Communications)",
+          "zh": "论文（Nature Communications）"
+        },
+        "url": "https://www.nature.com/articles/s41467-022-29695-6"
+      },
+      {
+        "label": { "en": "Code repository", "zh": "代码仓库" },
+        "url": "https://github.com/ma-compbio/CAESAR"
+      }
+    ],
+    "gallery": [
+      {
+        "src": "assets/images/work/caesar.png",
+        "alt": { "en": "CAESAR concept", "zh": "CAESAR 示意" }
+      }
+    ]
+  },
+  {
+    "id": "schictools-2021",
+    "date": "2021-05-20",
+    "tag": { "en": "Software · Single Cell", "zh": "软件 · 单细胞" },
+    "title": {
+      "en": "scHiCTools: toolbox for single-cell Hi-C analysis",
+      "zh": "scHiCTools：单细胞 Hi-C 数据分析工具箱"
+    },
+    "summary": {
+      "en": "Practical Python toolkit for preprocessing, embedding, clustering and visualization of single-cell Hi-C datasets.",
+      "zh": "用于单细胞 Hi-C 数据预处理、嵌入、聚类与可视化的 Python 工具箱。"
+    },
+    "cover": "assets/images/work/schictools.png",
+    "sections": [
+      {
+        "heading": { "en": "Project overview", "zh": "项目概述" },
+        "text": {
+          "en": "A computational toolbox for single-cell Hi-C data providing practical modules for preprocessing, quality control, embedding, clustering, and visualization.",
+          "zh": "面向单细胞 Hi-C 数据的工具箱，包含预处理、质控、嵌入、聚类和可视化模块。"
+        }
+      },
+      {
+        "heading": { "en": "Software characteristics", "zh": "软件特点" },
+        "text": {
+          "en": "Designed to be accessible and reproducible; integrates with existing pipelines for scalable single-cell 3D genome analysis.",
+          "zh": "注重可用性与可复现性，可集成到现有分析流程，支持规模化单细胞三维基因组分析。"
+        }
+      },
+      {
+        "heading": { "en": "Impact", "zh": "研究价值" },
+        "text": {
+          "en": "Lowers the barrier for robust analysis of sparse single-cell contact maps and supports broader community adoption.",
+          "zh": "降低稀疏单细胞接触图分析的门槛，推动相关方法的社区使用。"
+        }
+      }
+    ],
+    "links": [
+      {
+        "label": {
+          "en": "Paper (PLoS Computational Biology)",
+          "zh": "论文（PLoS Computational Biology）"
+        },
+        "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008978"
+      },
+      {
+        "label": { "en": "Code repository", "zh": "代码仓库" },
+        "url": "https://github.com/liu-bioinfo-lab/scHiCTools"
+      }
+    ],
+    "gallery": [
+      {
+        "src": "assets/images/work/schictools.png",
+        "alt": { "en": "scHiCTools concept", "zh": "scHiCTools 示意" }
+      }
+    ]
+  }
+]

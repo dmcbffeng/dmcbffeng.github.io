@@ -1,0 +1,47 @@
+{
+  "id": "your-project-id",
+  "date": "YYYY-MM-DD",
+  "tag": {
+    "en": "Category · Subcategory",
+    "zh": "类别 · 子类别"
+  },
+  "title": {
+    "en": "Project title in English",
+    "zh": "项目中文标题"
+  },
+  "summary": {
+    "en": "One-line English summary that appears on cards.",
+    "zh": "卡片上显示的一句话中文摘要。"
+  },
+  "cover": "assets/images/work/your-cover.png",
+  "sections": [
+    {
+      "heading": {
+        "en": "Section heading",
+        "zh": "章节标题"
+      },
+      "text": {
+        "en": "Plain-text section content (no HTML).",
+        "zh": "章节内容（纯文本，不含 HTML）。"
+      }
+    }
+  ],
+  "links": [
+    {
+      "label": {
+        "en": "Paper / code / slides",
+        "zh": "论文 / 代码 / 幻灯片"
+      },
+      "url": "https://example.com"
+    }
+  ],
+  "gallery": [
+    {
+      "src": "assets/images/work/your-image.png",
+      "alt": {
+        "en": "Image description",
+        "zh": "图片说明"
+      }
+    }
+  ]
+}

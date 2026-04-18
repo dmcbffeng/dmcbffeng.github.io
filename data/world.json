@@ -1,0 +1,314 @@
+{
+  "locations": [
+    {
+      "city": {
+        "en": "Vancouver, Canada",
+        "zh": "加拿大·温哥华"
+      },
+      "date": "2023-09-17",
+      "lat": 49.28,
+      "lng": -123.12,
+      "xPercent": 13.42,
+      "yPercent": 20.71,
+      "thumbnail": "assets/images/travel/vancouver.jpg",
+      "fullImage": "assets/images/travel/vancouver.jpg",
+      "note": {
+        "en": "Grouse Mountain, Vancouver.",
+        "zh": "温哥华，松鸡山。"
+      }
+    },
+    {
+      "city": {
+        "en": "Macau, China",
+        "zh": "中国·澳门"
+      },
+      "date": "2023-09-17",
+      "lat": 22.19,
+      "lng": 113.54,
+      "xPercent": 77.99,
+      "yPercent": 35.89,
+      "thumbnail": "assets/images/travel/macau.jpg",
+      "fullImage": "assets/images/travel/macau.jpg",
+      "note": {
+        "en": "Macau, Ruins of St. Paul's.",
+        "zh": "澳门，大三巴牌坊。"
+      }
+    },
+    {
+      "city": {
+        "en": "Vientiane, Laos",
+        "zh": "老挝·万象"
+      },
+      "date": "2023-10-15",
+      "lat": 17.97,
+      "lng": 102.6,
+      "xPercent": 75.25,
+      "yPercent": 39.04,
+      "thumbnail": "assets/images/travel/vientiane.jpg",
+      "fullImage": "assets/images/travel/vientiane.jpg",
+      "note": {
+        "en": "Vientiane, the capital of Laos.",
+        "zh": "万象，老挝的首都。"
+      }
+    },
+    {
+      "city": {
+        "en": "Machu Picchu, Peru",
+        "zh": "秘鲁·马丘比丘"
+      },
+      "date": "2024-02-08",
+      "lat": -13.16,
+      "lng": -72.54,
+      "xPercent": 27.67,
+      "yPercent": 57.96,
+      "thumbnail": "assets/images/travel/machupicchu.jpg",
+      "fullImage": "assets/images/travel/machupicchu.jpg",
+      "note": {
+        "en": "Machu Picchu, the lost city of the Incas.",
+        "zh": "马丘比丘，印加帝国的失落之城。"
+      }
+    },
+    {
+      "city": {
+        "en": "Antigua, Guatemala",
+        "zh": "危地马拉·安提瓜"
+      },
+      "date": "2024-04-15",
+      "lat": 14.54,
+      "lng": -90.74,
+      "xPercent": 22.41,
+      "yPercent": 38.06,
+      "thumbnail": "assets/images/travel/guatemala.jpg",
+      "fullImage": "assets/images/travel/guatemala.jpg",
+      "note": {
+        "en": "Witnessing a volcanic eruption in Guatemala.",
+        "zh": "在危地马拉见证火山喷发。"
+      }
+    },
+    {
+      "city": {
+        "en": "Panama City, Panama",
+        "zh": "巴拿马·巴拿马城"
+      },
+      "date": "2024-02-05",
+      "lat": 8.98,
+      "lng": -79.52,
+      "xPercent": 25.04,
+      "yPercent": 43.97,
+      "thumbnail": "assets/images/travel/panama.jpg",
+      "fullImage": "assets/images/travel/panama.jpg",
+      "note": {
+        "en": "Watching cargo ships pass through the Panama Canal.",
+        "zh": "看货轮穿越巴拿马运河。"
+      }
+    },
+    {
+      "city": {
+        "en": "Cairo, Egypt",
+        "zh": "埃及·开罗"
+      },
+      "date": "2024-05-24",
+      "lat": 30.05,
+      "lng": 31.23,
+      "xPercent": 55.19,
+      "yPercent": 31.75,
+      "thumbnail": "assets/images/travel/cairo.jpg",
+      "fullImage": "assets/images/travel/cairo.jpg",
+      "note": {
+        "en": "Mummies in the museum in Cairo.",
+        "zh": "开罗，博物馆里的木乃伊。"
+      }
+    },
+    {
+      "city": {
+        "en": "Mexico City, Mexico",
+        "zh": "墨西哥·墨西哥城"
+      },
+      "date": "2024-11-28",
+      "lat": 19.43,
+      "lng": -99.13,
+      "xPercent": 19.12,
+      "yPercent": 36.44,
+      "thumbnail": "assets/images/travel/mexicocity.jpg",
+      "fullImage": "assets/images/travel/mexicocity.jpg",
+      "note": {
+        "en": "Teotihuacan, Sun Pyramid.",
+        "zh": "特奥蒂瓦坎，太阳金字塔。"
+      }
+    },
+    {
+      "city": {
+        "en": "Sarajevo, Bosnia and Herzegovina",
+        "zh": "波黑·萨拉热窝"
+      },
+      "date": "2024-06-04",
+      "lat": 43.85,
+      "lng": 18.41,
+      "xPercent": 52.56,
+      "yPercent": 22.44,
+      "thumbnail": "assets/images/travel/sarajevo.jpg",
+      "fullImage": "assets/images/travel/sarajevo.jpg",
+      "note": {
+        "en": "Hanging out in Sarajevo.",
+        "zh": "在萨拉热窝闲逛。"
+      }
+    },
+    {
+      "city": { "en": "Istanbul, Turkey", "zh": "土耳其·伊斯坦布尔" },
+      "date": "2024-05-28",
+      "lat": 41.01,
+      "lng": 28.98,
+      "xPercent": 54.97,
+      "yPercent": 25.05,
+      "thumbnail": "assets/images/travel/istanbul.jpg",
+      "fullImage": "assets/images/travel/istanbul.jpg",
+      "note": {
+        "en": "Hagia Sophia in Istanbul.",
+        "zh": "伊斯坦布尔，圣索菲亚大教堂。"
+      }
+    },
+    {
+      "city": { "en": "Salt Lake City, USA", "zh": "美国·盐湖城" },
+      "date": "2019-08-03",
+      "lat": 40.76,
+      "lng": -111.89,
+      "xPercent": 18.1,
+      "yPercent": 23.1,
+      "thumbnail": "assets/images/travel/un.jpg",
+      "fullImage": "assets/images/travel/un.jpg",
+      "note": {
+        "en": "Attending the UN Civil Society Conference and hosting a workshop in Salt Lake City.",
+        "zh": "在盐湖城参加联合国非政府组织会议并且主持workshop。"
+      }
+    },
+    {
+      "city": { "en": "Beijing, China", "zh": "中国·北京" },
+      "date": "2017-08-09",
+      "lat": 39.98,
+      "lng": 116.33,
+      "xPercent": 77.88,
+      "yPercent": 25.25,
+      "thumbnail": "assets/images/travel/football.jpg",
+      "fullImage": "assets/images/travel/football.jpg",
+      "note": {
+        "en": "The Department of Chemistry and Molecular Engineering Football Team.",
+        "zh": "北京大学化学与分子工程学院足球队。"
+      }
+    },
+    {
+      "city": { "en": "Baku, Azerbaijan", "zh": "阿塞拜疆·巴库" },
+      "date": "2026-02-10",
+      "lat": 40.37,
+      "lng": 49.85,
+      "xPercent": 60.45,
+      "yPercent": 25.44,
+      "thumbnail": "assets/images/travel/baku.jpg",
+      "fullImage": "assets/images/travel/baku.jpg",
+      "note": {
+        "en": "Lion painting in the old city of Baku.",
+        "zh": "巴库老城的狮子壁画。"
+      }
+    },
+    {
+      "city": { "en": "Doha, Qatar", "zh": "卡塔尔·多哈" },
+      "date": "2026-02-09",
+      "lat": 25.28,
+      "lng": 51.53,
+      "xPercent": 61.22,
+      "yPercent": 33.92,
+      "thumbnail": "assets/images/travel/doha.jpg",
+      "fullImage": "assets/images/travel/doha.jpg",
+      "note": {
+        "en": "Lusail Stadium, the venue of the 2022 FIFA World Cup final.",
+        "zh": "卢赛尔体育场，2022 年 FIFA 世界杯决赛的举办地。"
+      }
+    },
+    {
+      "city": { "en": "Arches National Park, USA", "zh": "美国·拱门国家公园" },
+      "date": "2025-09-28",
+      "lat": 38.68,
+      "lng": -109.57,
+      "xPercent": 17.1,
+      "yPercent": 25.1,
+      "thumbnail": "assets/images/travel/arches.jpg",
+      "fullImage": "assets/images/travel/arches.jpg",
+      "note": {
+        "en": "Arches National Park is a beautiful national park in the USA.",
+        "zh": "拱门国家公园是一个美丽的国家公园。"
+      }
+    },
+    {
+      "city": { "en": "Dominica", "zh": "多米尼克" },
+      "date": "2025-11-28",
+      "lat": 18.05,
+      "lng": -63.12,
+      "xPercent": 31.25,
+      "yPercent": 40.96,
+      "thumbnail": "assets/images/travel/dominica.jpg",
+      "fullImage": "assets/images/travel/dominica.jpg",
+      "note": {
+        "en": "Dominica is a beautiful island in the Caribbean.",
+        "zh": "多米尼克是一个美丽的岛国。"
+      }
+    },
+    {
+      "city": { "en": "Sint Maarten, Caribbean", "zh": "加勒比·圣马丁" },
+      "date": "2025-03-28",
+      "lat": 18.05,
+      "lng": -63.12,
+      "xPercent": 30.25,
+      "yPercent": 38.4,
+      "thumbnail": "assets/images/travel/stmartin.jpg",
+      "fullImage": "assets/images/travel/stmartin.jpg",
+      "note": {
+        "en": "Plane-spotting day at Maho Beach — turquoise sea and loud engines overhead.",
+        "zh": "Maho 海滩看飞机低飞：碧海与头顶的发动机轰鸣。"
+      },
+      "link": "https://www.bilibili.com/video/BV1v2oQYQEMJ/"
+    },
+    {
+      "city": { "en": "Rome, Italy", "zh": "意大利·罗马" },
+      "date": "2023-01-24",
+      "lat": 41.9,
+      "lng": 12.5,
+      "xPercent": 50.53,
+      "yPercent": 24.8,
+      "thumbnail": "assets/images/travel/rome.jpg",
+      "fullImage": "assets/images/travel/rome.jpg",
+      "note": {
+        "en": "Ancient streets, warm winter light, and endless stories to wander into.",
+        "zh": "古老的街道、温暖的冬日光线与讲不完的城市故事。"
+      },
+      "link": "https://www.bilibili.com/video/BV19M411W75A/"
+    },
+    {
+      "city": { "en": "Bremen, Germany", "zh": "德国·不来梅" },
+      "date": "2023-01-28",
+      "lat": 53.08,
+      "lng": 8.8,
+      "xPercent": 49.19,
+      "yPercent": 18.53,
+      "thumbnail": "assets/images/travel/bremen.jpg",
+      "fullImage": "assets/images/travel/bremen.jpg",
+      "note": {
+        "en": "Matchday vibes, winter wind, and unforgettable energy in the stands.",
+        "zh": "冬日的球场与看台上难忘的热烈氛围。"
+      },
+      "link": "https://www.bilibili.com/video/BV1jA411r73Y/"
+    },
+    {
+      "city": { "en": "Nashville, USA", "zh": "美国·纳什维尔" },
+      "date": "2025-06-06",
+      "lat": 36.16,
+      "lng": -86.78,
+      "xPercent": 23.1,
+      "yPercent": 26.91,
+      "thumbnail": "assets/images/travel/nashville.jpg",
+      "fullImage": "assets/images/travel/nashville.jpg",
+      "note": {
+        "en": "Attending the CVPR 2025 conference in Nashville.",
+        "zh": "在纳什维尔参加 CVPR 2025 会议。"
+      }
+    }
+  ]
+}

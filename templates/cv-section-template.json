@@ -1,0 +1,10 @@
+{
+  "id": "section-id-kebab-case",
+  "title": { "en": "Section Title", "zh": "章节标题" },
+  "items": [
+    {
+      "en": "An item. HTML is allowed here, e.g. <b>bold</b>, <i>italic</i>, <a href=\"https://example.com\" target=\"_blank\" rel=\"noopener\">link</a>.",
+      "zh": "条目内容。允许 HTML，例如 <b>加粗</b>、<i>斜体</i>、<a href=\"https://example.com\" target=\"_blank\" rel=\"noopener\">链接</a>。"
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "links": {
+    "en": { "pdf": "assets/docs/Fan_Feng_CV_EN.pdf" },
+    "zh": { "pdf": "assets/docs/Fan_Feng_CV_ZH.pdf" }
+  },
+  "sections": [
+    {
+      "id": "work-experience",
+      "title": { "en": "Work Experience", "zh": "工作经历" },
+      "items": [
+        {
+          "en": "<b>Research Fellow / Data Scientist</b>, Department of Medicine, Vanderbilt University Medical Center (Feb 2024 – Present). Advisor: <a href=\"https://www.powersbrissovaresearch.org/\" target=\"_blank\" rel=\"noopener\">Dr. Marcela Brissova</a>.",
+          "zh": "<b>博士后研究员 / 数据科学家</b>，范德堡大学医学中心 药学系（2024年2月 – 至今）。导师：<a href=\"https://www.powersbrissovaresearch.org/\" target=\"_blank\" rel=\"noopener\">Marcela Brissova 教授</a>。"
+        }
+      ]
+    },
+    {
+      "id": "research-interests",
+      "title": { "en": "Research Interests", "zh": "研究兴趣" },
+      "items": [
+        {
+          "en": "AI-driven Computational models for islet biology and diabetes.",
+          "zh": "利用AI驱动的计算模型理解胰岛生物学与糖尿病。"
+        },
+        {
+          "en": "Knowledge-graph–based integration of genomic, epigenomic, transcriptomic, and 4D-genome data.",
+          "zh": "基于知识图谱整合基因组、表观组、转录组与四维基因组数据。"
+        },
+        {
+          "en": "Chromatin 3D structural pattern analysis.",
+          "zh": "染色质三维结构模式分析。"
+        }
+      ]
+    },
+    {
+      "id": "education",
+      "title": { "en": "Education", "zh": "教育背景" },
+      "items": [
+        {
+          "en": "<b>Ph.D. in Bioinformatics</b>, University of Michigan – Ann Arbor, Department of Computational Medicine and Bioinformatics (Sep 2018 – Dec 2023). Advisor: <a href=\"https://jieliu6.github.io/\" target=\"_blank\" rel=\"noopener\">Dr. Jie Liu</a>.",
+          "zh": "<b>生物信息学博士</b>，密歇根大学安娜堡分校 计算医学与生物信息学系（2018年9月 – 2023年12月）。导师：<a href=\"https://jieliu6.github.io/\" target=\"_blank\" rel=\"noopener\">Jie Liu 教授</a>。"
+        },
+        {
+          "en": "<b>B.Sc. in Chemical Biology</b>, Peking University, College of Chemistry and Molecular Engineering (Sep 2014 – Jul 2018). Awards for Outstanding Graduates of Peking University and CCME.",
+          "zh": "<b>化学生物学学士</b>，北京大学 化学与分子工程学院（2014年9月 – 2018年7月）。北京大学及化学与分子工程学院优秀毕业生。"
+        },
+        {
+          "en": "<b>Dual Bachelor of Economics</b>, Peking University, National School of Development (Sep 2015 – Jul 2018).",
+          "zh": "<b>经济学双学位</b>，北京大学 国家发展研究院（2015年9月 – 2018年7月）。"
+        }
+      ]
+    },
+    {
+      "id": "publications",
+      "title": {
+        "en": "Publications (peer-reviewed)",
+        "zh": "发表论文（同行评审）"
+      },
+      "items": [
+        {
+          "en": "Saunders, D. C.*, <b>Feng, F.*</b>, Hopkirk, A. E.*, Aamodt, K. I.*, Hart, N.*, Pan, F. C.*, ..., Wright, C. V. E., Powers, A. C. & Brissova, M. (2024). Mapping histological and functional maturation of human endocrine pancreas across early postnatal periods. (Accepted in Principle by <i>Nature Communications</i>) (*co-first author)",
+          "zh": "Saunders, D. C.*, <b>Feng, F.*</b>, Hopkirk, A. E.*, Aamodt, K. I.*, Hart, N.*, Pan, F. C.*, ..., Wright, C. V. E., Powers, A. C. & Brissova, M. (2024). Mapping histological and functional maturation of human endocrine pancreas across early postnatal periods. (<i>Nature Communications</i> 已接收 待发布) (*共同第一作者)"
+        },
+        {
+          "en": "<b>Feng, F.*</b>, Moran, S. P.*, & Liu, J. (2025) Statistically rigorous and computationally efficient chromatin stripe detection with Quagga. <i>Genome Biology</i>, 36.1: 159-168 (*co-first author)",
+          "zh": "<b>Feng, F.*</b>, Moran, S. P.*, & Liu, J. (2025) Statistically rigorous and computationally efficient chromatin stripe detection with Quagga. <i>Genome Biology</i>, 36.1: 159-168 (*共同第一作者)"
+        },
+        {
+          "en": "Luo, X., Huang, Y., Zeng, H., Tao, Y., Bao, X., <b>Feng, F.</b>, Hopkirk, A., Bate, T. S., … & Liu, J. (2024). CelLink: integrating single-cell multi-omics data with weak feature linkage and imbalanced cell populations. <i>Nucleic Acids Research</i>, 53.22: gkaf1270.",
+          "zh": "Luo, X., Huang, Y., Zeng, H., Tao, Y., Bao, X., <b>Feng, F.</b>, Hopkirk, A., Bate, T. S., … & Liu, J. (2024). CelLink: integrating single-cell multi-omics data with weak feature linkage and imbalanced cell populations. <i>Nucleic Acids Research</i>, 53.22: gkaf1270."
+        },
+        {
+          "en": "Evans-Molina, C., Pettway, Y. D., Saunders, …, <b>Feng, F.</b>, … & Brissova, M. (2024). Heterogeneous endocrine cell composition defines human islet functional phenotypes. (Accepted in Principle by <i>Nature Communications</i>)",
+          "zh": "Evans-Molina, C., Pettway, Y. D., Saunders, …, <b>Feng, F.</b>, … & Brissova, M. (2024). Heterogeneous endocrine cell composition defines human islet functional phenotypes. (<i>Nature Communications</i> 已接收 待发布)"
+        },
+        {
+          "en": "Varshney, A., Manickam, N., Orchard, P., Tovar, A., Ventresca, C., Zhang, Z., <b>Feng, F.</b>, ... & Parker, S. C. (2023). Population-scale skeletal muscle single-nucleus multi-omic profiling reveals extensive context specific genetic regulation. <i>bioRxiv</i>, 2023-12. (Accepted in Principle by <i>Nature Genetics</i>)",
+          "zh": "Varshney, A., Manickam, N., Orchard, P., Tovar, A., Ventresca, C., Zhang, Z., <b>Feng, F.</b>, ... & Parker, S. C. (2023). Population-scale skeletal muscle single-nucleus multi-omic profiling reveals extensive context specific genetic regulation. <i>bioRxiv</i>, 2023-12. (已接收 待发布, <i>Nature Genetics</i>)"
+        },
+        {
+          "en": "Tao, Y., <b>Feng, F.</b>, Luo, X., & Liu, J. (2024). CNTools: A computational toolbox for cellular neighborhood analysis from cell images. <i>PLoS Computational Biology</i>, 20(8): e1012344.",
+          "zh": "Tao, Y., <b>Feng, F.</b>, Luo, X., & Liu, J. (2024). CNTools: A computational toolbox for cellular neighborhood analysis from cell images. <i>PLoS Computational Biology</i>, 20(8): e1012344."
+        },
+        {
+          "en": "Zhang, Z., <b>Feng, F.</b>, Qiu, Y., & Liu, J. (2023). A generalizable framework to comprehensively predict epigenome, chromatin organization, and transcriptome. <i>Nucleic Acids Research</i>, 51(12): 5931–5947.",
+          "zh": "Zhang, Z., <b>Feng, F.</b>, Qiu, Y., & Liu, J. (2023). A generalizable framework to comprehensively predict epigenome, chromatin organization, and transcriptome. <i>Nucleic Acids Research</i>, 51(12): 5931–5947."
+        },
+        {
+          "en": "IGVF Consortium (2024). Deciphering the impact of genomic variation on function. <i>Nature</i>, 633(8028): 47–57.",
+          "zh": "IGVF Consortium (2024). Deciphering the impact of genomic variation on function. <i>Nature</i>, 633(8028): 47–57."
+        },
+        {
+          "en": "<b>Feng, F.</b>, Tang, F., Gao, Y., Zhu, D., … & Liu, J. (2023). GenomicKB: a knowledge graph for human genomics. <i>Nucleic Acids Research</i>, 51(D1): D950–D956.",
+          "zh": "<b>Feng, F.</b>, Tang, F., Gao, Y., Zhu, D., … & Liu, J. (2023). GenomicKB: a knowledge graph for human genomics. <i>Nucleic Acids Research</i>, 51(D1): D950–D956."
+        },
+        {
+          "en": "Zhang, Z., <b>Feng, F.</b>, & Liu, J. (2022). Characterizing collaborative transcription regulation with a graph-based deep learning approach. <i>PLoS Computational Biology</i>, 18(6): e1010162.",
+          "zh": "Zhang, Z., <b>Feng, F.</b>, & Liu, J. (2022). Characterizing collaborative transcription regulation with a graph-based deep learning approach. <i>PLoS Computational Biology</i>, 18(6): e1010162."
+        },
+        {
+          "en": "<b>Feng, F.</b>, Yao, Y., Wang, X. Q. D., Zhang, X., & Liu, J. (2022). Connecting high-resolution 3D chromatin organization with epigenomics. <i>Nature Communications</i>, 13(1): 1–10.",
+          "zh": "<b>Feng, F.</b>, Yao, Y., Wang, X. Q. D., Zhang, X., & Liu, J. (2022). Connecting high-resolution 3D chromatin organization with epigenomics. <i>Nature Communications</i>, 13(1): 1–10."
+        },
+        {
+          "en": "Li, X., <b>Feng, F.</b>, Pu, H., Leung, W. Y., & Liu, J. (2021). scHiCTools: A computational toolbox for analyzing single-cell Hi-C data. <i>PLoS Computational Biology</i>, 17(5): e1008978.",
+          "zh": "Li, X., <b>Feng, F.</b>, Pu, H., Leung, W. Y., & Liu, J. (2021). scHiCTools: A computational toolbox for analyzing single-cell Hi-C data. <i>PLoS Computational Biology</i>, 17(5): e1008978."
+        },
+        {
+          "en": "Himadewi, P.*, Wang, X. Q. D.*, <b>Feng, F.*</b>, Gore, H., Liu, Y., Yu, L., … & Zhang, X. (2021). 3′HS1 CTCF binding site in human β-globin locus regulates fetal hemoglobin expression. <i>eLife</i>, 10: e70557. (*co-first author)",
+          "zh": "Himadewi, P.*, Wang, X. Q. D.*, <b>Feng, F.*</b>, Gore, H., Liu, Y., Yu, L., … & Zhang, X. (2021). 3′HS1 CTCF binding site in human β-globin locus regulates fetal hemoglobin expression. <i>eLife</i>, 10: e70557. (*共同第一作者)"
+        },
+        {
+          "en": "Zhang, X., Wang, X. Q. D., Gore, H., Himadewi, P., <b>Feng, F.</b>, & Liu, J. (2020). 3D Genomics of Acute Myeloid Leukemia Reveals the Imbalance between DNA Methylation Canyon Interactions and Leukemic Specific Enhancer Network Interactions. <i>Blood</i>, 136: 45.",
+          "zh": "Zhang, X., Wang, X. Q. D., Gore, H., Himadewi, P., <b>Feng, F.</b>, & Liu, J. (2020). 3D Genomics of Acute Myeloid Leukemia Reveals the Imbalance between DNA Methylation Canyon Interactions and Leukemic Specific Enhancer Network Interactions. <i>Blood</i>, 136: 45."
+        },
+        {
+          "en": "<b>Feng, F.</b>, Lai, L., & Pei, J. (2018). Computational chemical synthesis analysis and pathway design. <i>Frontiers in Chemistry</i>, 6: 199.",
+          "zh": "<b>Feng, F.</b>, Lai, L., & Pei, J. (2018). Computational chemical synthesis analysis and pathway design. <i>Frontiers in Chemistry</i>, 6: 199."
+        }
+      ]
+    },
+    {
+      "id": "preprints",
+      "title": {
+        "en": "Submitted / Under Review / Preprints",
+        "zh": "投稿中 / 审稿中 / 预印本"
+      },
+      "items": [
+        {
+          "en": "Hong, C. K.*, <b>Feng, F.*</b>, Ramanathan, V., Liu, J., & Hansen, A. S. (2025). Genome structure mapping with high-resolution 3D genomics and deep learning. (under review, <i>Nature Genetics</i>) (*co-first author)",
+          "zh": "Hong, C. K.*, <b>Feng, F.*</b>, Ramanathan, V., Liu, J., & Hansen, A. S. (2025). Genome structure mapping with high-resolution 3D genomics and deep learning. (审稿中，<i>Nature Genetics</i>) (*共同第一作者)"
+        },
+        {
+          "en": "Wang, X. Q. D.*, Yang, W.*, <b>Feng, F.*</b>, Shum, M., Bell, O., Liu, J., Zhang, X., & Dou, Y. (2025). HOXA9 Couples Transcriptional Control with Higher-Order Chromatin Architecture in Acute Myeloid Leukemia. (Submitted to <i>Cancer Discovery</i>)",
+          "zh": "Wang, X. Q. D.*, Yang, W.*, <b>Feng, F.*</b>, Shum, M., Bell, O., Liu, J., Zhang, X., & Dou, Y. (2025). HOXA9 Couples Transcriptional Control with Higher-Order Chromatin Architecture in Acute Myeloid Leukemia. (提交至 <i>Cancer Discovery</i>)"
+        },
+        {
+          "en": "Moran, S., Fan, Z., Zanovello, M., <b>Feng, F.</b>, Wang, D. X. Q., Lu, C., Liu, J., Zhang, X. (2025). Pan-cancer 3D genomic analysis revealed extremely long Polycomb loops as the biomarker for sensitivity to Polycomb inhibition, <i>bioRxiv</i>, 2025-12 (Submitted to <i>Cancer Discovery</i>)",
+          "zh": "Moran, S., Fan, Z., Zanovello, M., <b>Feng, F.</b>, Wang, D. X. Q., Lu, C., Liu, J., Zhang, X. (2025). Pan-cancer 3D genomic analysis revealed extremely long Polycomb loops as the biomarker for sensitivity to Polycomb inhibition, <i>bioRxiv</i>, 2025-12 (提交至 <i>Cancer Discovery</i>)"
+        },
+        {
+          "en": "Huang, Y., Han, Z., Luo, X., …, <b>Feng, F.</b>, … & Liu, J. (2024). Building a literature knowledge base towards transparent biomedical AI. (under review, <i>Nature Machine Intelligence</i>)",
+          "zh": "Huang, Y., Han, Z., Luo, X., …, <b>Feng, F.</b>, … & Liu, J. (2024). Building a literature knowledge base towards transparent biomedical AI. (审稿中，<i>Nature Machine Intelligence</i>)"
+        }
+      ]
+    },
+    {
+      "id": "invited-talks",
+      "title": { "en": "Invited Talks", "zh": "受邀报告" },
+      "items": [
+        {
+          "en": "\"PanKbase – a knowledge base for the pancreas & diabetes community\", Sugar Science D-Challenge Seminar, Virtual, Oct. 2025",
+          "zh": "\"PanKbase – a knowledge base for the pancreas & diabetes community\", Sugar Science D-Challenge Seminar, 线上报告, 2025年10月。"
+        },
+        {
+          "en": "\"Defining the composition and spatial organization of human pancreatic cells with computational approaches\", Beta Cell Interest Group (BIG) Seminar, Nashville, USA, Feb. 2025",
+          "zh": "\"Defining the composition and spatial organization of human pancreatic cells with computational approaches\", Beta Cell Interest Group (BIG) Seminar, 美国纳什维尔, 2025年2月。"
+        },
+        {
+          "en": "\"Defining human pancreatic cell composition and spatial distribution with machine learning methods\", AI in Precision Medicine of Diabetes and Other Chronic Diseases Workshop, Rockville, USA, Oct. 2024",
+          "zh": "\"Defining human pancreatic cell composition and spatial distribution with machine learning methods\", AI in Precision Medicine of Diabetes and Other Chronic Diseases Workshop, 美国罗克维尔, 2024年10月。"
+        },
+        {
+          "en": "\"Application of knowledge graphs in biomedical fields\", <i>CCHC Omics Seminar</i>, Nashville, USA, Oct 2024.",
+          "zh": "\"Application of knowledge graphs in biomedical fields\", <i>CCHC Omics Seminar</i>, 美国纳什维尔, 2024年10月。"
+        },
+        {
+          "en": "\"GenomicKB: a knowledge graph for human genome\", <i>Intelligent Systems for Molecular Biology (ISMB)</i>, Lyon, France, Jul 2023.",
+          "zh": "\"GenomicKB: a knowledge graph for human genome\", <i>ISMB</i>, 法国里昂, 2023年7月。"
+        },
+        {
+          "en": "\"A generalizable framework to comprehensively predict epigenome, chromatin organization, and transcriptome\", <i>Great Lakes Bioinformatics (GLBIO) Conference</i>, Montreal, Canada, May 2023.",
+          "zh": "\"A generalizable framework to comprehensively predict epigenome, chromatin organization, and transcriptome\", <i>GLBIO</i>, 加拿大蒙特利尔, 2023年5月。"
+        },
+        {
+          "en": "\"An overview of Hi-C downstream analysis\", <i>Chromatin 3D Folding Workshop</i>, UT Health, Houston, USA, Mar 2023.",
+          "zh": "\"An overview of Hi-C downstream analysis\", <i>Chromatin 3D Folding Workshop</i>, UT Health (休斯敦), 2023年3月。"
+        },
+        {
+          "en": "\"GenomicKB: a knowledge graph for human genome\", <i>Tools and Technology Seminar</i>, University of Michigan, Ann Arbor, USA, Jan 2023.",
+          "zh": "\"GenomicKB: a knowledge graph for human genome\", <i>Tools and Technology Seminar</i>, 密歇根大学安娜堡分校, 2023年1月。"
+        },
+        {
+          "en": "\"Connecting high-resolution 3D chromatin organization with epigenomics\", <i>ISMB</i>, Madison, USA, Jul 2022.",
+          "zh": "\"Connecting high-resolution 3D chromatin organization with epigenomics\", <i>ISMB</i>, 美国麦迪逊, 2022年7月。"
+        },
+        {
+          "en": "\"An accurate and interpretable model for predicting high-resolution 3D chromatin organization\", <i>4DN Consortium Joint Analysis Working Group</i>, Sep 2019.",
+          "zh": "\"An accurate and interpretable model for predicting high-resolution 3D chromatin organization\", <i>4DN Consortium JAWG</i>, 2019年9月。"
+        }
+      ]
+    },
+    {
+      "id": "teaching",
+      "title": { "en": "Teaching", "zh": "教学经历" },
+      "items": [
+        {
+          "en": "<b>Graduate Student Instructor (GSI)</b>, BIOINF 593 / EECS 598 \"Machine Learning in Computational Biology\", University of Michigan, Fall 2022.",
+          "zh": "<b>研究生助教/讲师</b>，BIOINF 593 / EECS 598《计算生物学中的机器学习》，密歇根大学，2022年秋。"
+        }
+      ]
+    },
+    {
+      "id": "peer-review",
+      "title": { "en": "Invited Peer Review", "zh": "审稿经历" },
+      "items": [
+        {
+          "en": "Co-reviewer, <i>Nature Metabolism</i> (since 2024).",
+          "zh": "Co-reviewer，<i>Nature Metabolism</i>（自 2024 年起）。"
+        },
+        {
+          "en": "Co-reviewer, <i>Nature Communications</i> (since 2023).",
+          "zh": "Co-reviewer，<i>Nature Communications</i>（自 2023 年起）。"
+        },
+        {
+          "en": "Reviewer, <i>PLoS Computational Biology</i> (since 2022).",
+          "zh": "Reviewer，<i>PLoS Computational Biology</i>（自 2022 年起）。"
+        },
+        {
+          "en": "Reviewer, NeurIPS AI4Science Workshop (since 2021).",
+          "zh": "Reviewer，NeurIPS AI4Science Workshop（自 2021 年起）。"
+        },
+        {
+          "en": "Reviewer, ICML AI4Science Workshop (since 2022).",
+          "zh": "Reviewer，ICML AI4Science Workshop（自 2022 年起）。"
+        },
+        {
+          "en": "Reviewer, ICML Generative AI and Biology (GenBio) Workshop (since 2023).",
+          "zh": "Reviewer，ICML GenBio Workshop（自 2023 年起）。"
+        }
+      ]
+    },
+    {
+      "id": "awards",
+      "title": { "en": "Awards", "zh": "获奖情况" },
+      "items": [
+        {
+          "en": "Postdoctoral Excellence in Innovation Award, Vanderbilt University, 2025.",
+          "zh": "Postdoctoral Excellence in Innovation Award, 范德堡大学, 2025。"
+        },
+        {
+          "en": "Data Resource Trainee Scholar Award, Integrated Islet Distribution Program (IIDP), 2025.",
+          "zh": "Data Resource Trainee Scholar Award, IIDP, 2025。"
+        },
+        {
+          "en": "AI Workshop Young Scholar Travel Award, NIDDK, 2024.",
+          "zh": "AI Workshop Young Scholar Travel Award, NIDDK, 2024。"
+        },
+        {
+          "en": "Rackham Conference Travel Award, University of Michigan, 2022 & 2023.",
+          "zh": "Rackham Conference Travel Award, 密歇根大学, 2022 & 2023。"
+        },
+        {
+          "en": "Program in Biomedical Sciences Fellowship, University of Michigan, 2019.",
+          "zh": "Program in Biomedical Sciences Fellowship, 密歇根大学, 2019。"
+        },
+        {
+          "en": "Outstanding Graduates of Peking University and CCME, 2018.",
+          "zh": "北京大学优秀毕业生 / 化学与分子工程学院优秀毕业生, 2018。"
+        },
+        {
+          "en": "Gold Medal, Chinese Chemistry Olympiad (Top 100 nationwide), 2013.",
+          "zh": "中国化学奥林匹克竞赛决赛金牌（全国前 100 名），2013。"
+        }
+      ]
+    }
+  ]
+}

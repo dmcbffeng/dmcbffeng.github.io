@@ -1,0 +1,55 @@
+{
+  "profile": {
+    "name": { "en": "Fan Feng", "zh": "封凡" },
+    "role": {
+      "en": "Research Fellow / Data Scientist",
+      "zh": "博士后研究员 / 数据科学家"
+    },
+    "affiliation": {
+      "en": "Department of Medicine, Vanderbilt University Medical Center",
+      "zh": "范德堡大学医学中心，药学系"
+    },
+    "portrait": "assets/images/portrait/fan_portrait.jpg",
+    "email": "fan.feng@vumc.org",
+    "address": {
+      "en": "2213 Garland Ave., Nashville, TN 37232, USA",
+      "zh": "2213 Garland Ave., Nashville, TN 37232, USA"
+    },
+    "socials": {
+      "scholar": "https://scholar.google.com/citations?user=1EXo-hIAAAAJ&hl=en",
+      "github": "https://github.com/dmcbffeng",
+      "linkedin": "https://www.linkedin.com/in/fan-feng-974842120/",
+      "bilibili": "https://space.bilibili.com/"
+    }
+  },
+  "about": {
+    "en": [
+      "I'm a researcher at Vanderbilt University Medical Center working at the intersection of computational biology, imaging, and machine learning. My current focus is understanding pancreatic islets and diabetes through multimodal data integration of human pancreas.",
+      "Before Vanderbilt I did my Ph.D. in Bioinformatics at the University of Michigan, where I built tools for 3D chromatin organization and human-genome knowledge graphs. I also hold a B.Sc. in Chemical Biology and a dual Bachelor of Economics from Peking University.",
+      "Outside the lab I'm a travel enthusiast and try to keep unlocking new corners of the world."
+    ],
+    "zh": [
+      "目前我在范德堡大学医学中心（VUMC）做博士后研究，关注计算生物学、影像分析与机器学习的结合：通过多模态数据整合分析理解人类胰岛与糖尿病。",
+      "在此之前我在密歇根大学安娜堡分校获得生物信息学博士学位，研究方向包括三维染色质结构建模以及人类基因组知识图谱。本科就读于北京大学化学与分子工程学院（化学生物学专业），并取得国家发展研究院经济学双学位。",
+      "实验室之外，我是旅行爱好者，持续解锁世界新角落。"
+    ]
+  },
+  "highlights": [
+    {
+      "en": "Research Fellow / Data Scientist at Vanderbilt University Medical Center",
+      "zh": "范德堡大学医学中心 博士后研究员 / 数据科学家。"
+    },
+    {
+      "en": "Focus: computational biology, multiplexed imaging, and deep learning to understand diabetes.",
+      "zh": "研究方向：计算生物学、多重成像与糖尿病相关机器学习模型。"
+    },
+    {
+      "en": "Ph.D. in Bioinformatics, University of Michigan — Ann Arbor.",
+      "zh": "密歇根大学安娜堡分校 生物信息学博士。"
+    },
+    {
+      "en": "Speaks English, Madarin Chinese, and learning Spanish.",
+      "zh": "语言：英语、中文，西班牙语。"
+    }
+  ]
+}

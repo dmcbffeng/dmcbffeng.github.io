@@ -1,0 +1,16 @@
+{
+  "city": { "en": "City, Country", "zh": "国家 · 城市" },
+  "date": "YYYY-MM-DD",
+  "lat": 0.0,
+  "lng": 0.0,
+  "xPercent": 50.0,
+  "yPercent": 35.0,
+  "thumbnail": "assets/images/travel/your-thumbnail.jpg",
+  "fullImage": "assets/images/travel/your-full-image.jpg",
+  "note": {
+    "en": "One sentence about this trip.",
+    "zh": "一句话旅行记录。"
+  },
+  "link": "https://optional-vlog-url.example.com",
+  "__note__": "lat/lng are only for your reference. Rendering uses xPercent/yPercent. Open world.html?calibrate=1 and click the map to get exact values."
+}

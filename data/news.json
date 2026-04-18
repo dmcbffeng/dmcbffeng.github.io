@@ -1,0 +1,146 @@
+[
+  {
+    "date": "2026-04-02",
+    "text": {
+      "en": "First-author paper \"Mapping histological and functional maturation of human endocrine pancreas across early postnatal periods\" accepted by Nature Communications",
+      "zh": "共同第一作者论文《Mapping histological and functional maturation of human endocrine pancreas across early postnatal periods》被 Nature Communications 接收。"
+    }
+  },
+  {
+    "date": "2025-02-30",
+    "text": {
+      "en": "Abstract \"Spatial Organization of Human Islet Endocrine Cells Modulates Stimulated Hormone Secretion\" accepted by ADA Scientific Sessions 2026 as an oral presentation.",
+      "zh": "《Spatial Organization of Human Islet Endocrine Cells Modulates Stimulated Hormone Secretion》被 ADA Scientific Sessions 2026 接收为口头报告。"
+    }
+  },
+  {
+    "date": "2025-02-23",
+    "text": {
+      "en": "Fan Feng is the recipient of the 2025-2026 Postdoctoral Excellence in Innovation Award @Vanderbilt University.",
+      "zh": "荣获 2025-2026 范德堡大学博士后创新奖。"
+    },
+    "url": "https://news.vanderbilt.edu/2026/04/02/1469516/"
+  },
+  {
+    "date": "2025-09-01",
+    "text": {
+      "en": "First-author paper \"Statistically rigorous and computationally efficient chromatin stripe detection with Quagga\" published in Genome Biology",
+      "zh": "第一作者论文《Statistically rigorous and computationally efficient chromatin stripe detection with Quagga》发表于 Genome Biology。"
+    },
+    "url": "https://genome.cshlp.org/content/36/1/159.full"
+  },
+  {
+    "date": "2025-06-18",
+    "text": {
+      "en": "PanKbase (a knowledge base for the pancreas & diabetes community) released at ADA Scientific Sessions 2025, Chicago.",
+      "zh": "PanKbase（胰腺与糖尿病知识库）在 ADA Scientific Sessions 2025（芝加哥）发布。"
+    },
+    "url": "https://pankbase.org/"
+  },
+  {
+    "date": "2025-06-18",
+    "text": {
+      "en": "Poster presentation on multiplexed image analysis at ADA Scientific Sessions 2025, Chicago.",
+      "zh": "在 2025 ADA Scientific Sessions（芝加哥）进行多重影像分析海报展示。"
+    }
+  },
+  {
+    "date": "2025-06-01",
+    "text": {
+      "en": "Received the Data Resource Trainee Scholar Award from the Integrated Islet Distribution Program (IIDP).",
+      "zh": "获得 IIDP（Integrated Islet Distribution Program）Data Resource Trainee Scholar Award。"
+    },
+    "url": "https://iidp.coh.org/Funding/DRTSA-Awardees"
+  },
+  {
+    "date": "2024-12-01",
+    "text": {
+      "en": "Received the AI Workshop Young Scholar Travel Award from NIDDK.",
+      "zh": "获得 NIDDK 颁发的 AI Workshop Young Scholar Travel Award。"
+    }
+  },
+  {
+    "date": "2024-10-01",
+    "text": {
+      "en": "Invited talk: \"Application of knowledge graphs in biomedical fields\" at the CCHC Omics Seminar.",
+      "zh": "受邀报告：在 CCHC Omics Seminar 分享《生物医学中的知识图谱应用》。"
+    }
+  },
+  {
+    "date": "2024-02-01",
+    "text": {
+      "en": "Started as a Research Fellow in the Brissova Lab at Vanderbilt University Medical Center.",
+      "zh": "加入范德堡大学医学中心 Brissova 实验室，开始博士后研究工作。"
+    }
+  },
+  {
+    "date": "2023-12-15",
+    "text": {
+      "en": "Defended Ph.D. in Bioinformatics at the University of Michigan.",
+      "zh": "于密歇根大学完成生物信息学博士论文答辩。"
+    }
+  },
+  {
+    "date": "2023-07-24",
+    "text": {
+      "en": "Invited talk: \"GenomicKB: a knowledge graph for human genome\" at ISMB 2023, Lyon, France.",
+      "zh": "受邀在 ISMB 2023（法国里昂）报告《GenomicKB: a knowledge graph for human genome》。"
+    }
+  },
+  {
+    "date": "2023-05-01",
+    "text": {
+      "en": "Talk at GLBIO 2023 (Montreal) on a generalizable framework (EPCOT).",
+      "zh": "在 GLBIO 2023（蒙特利尔）报告通用预测框架 EPCOT 相关工作。"
+    },
+    "url": "https://www.biorxiv.org/content/10.1101/2022.05.23.493129v2"
+  },
+  {
+    "date": "2023-04-15",
+    "text": {
+      "en": "Poster presentation at GLBIO 2023 on GenomicKB.",
+      "zh": "在 GLBIO 2023 展示 GenomicKB 海报。"
+    },
+    "url": "https://academic.oup.com/nar/article/51/D1/D950/6786196"
+  },
+  {
+    "date": "2023-01-01",
+    "text": {
+      "en": "First-author paper \"GenomicKB: a knowledge graph for human genomics\" published in Nucleic Acids Research.",
+      "zh": "第一作者论文《GenomicKB: a knowledge graph for human genomics》发表于 Nucleic Acids Research。"
+    },
+    "url": "https://academic.oup.com/nar/article/51/D1/D950/6786196"
+  },
+  {
+    "date": "2022-08-01",
+    "text": {
+      "en": "Invited talk at ISMB 2022 (Madison): \"Connecting high-resolution 3D chromatin organization with epigenomics\".",
+      "zh": "在 ISMB 2022（麦迪逊）受邀报告《Connecting high-resolution 3D chromatin organization with epigenomics》。"
+    },
+    "url": "https://www.nature.com/articles/s41467-022-29695-6"
+  },
+  {
+    "date": "2022-04-01",
+    "text": {
+      "en": "First-author paper on 3D chromatin organization (CAESAR) published in Nature Communications.",
+      "zh": "第一作者三维染色质相关论文（CAESAR）发表于 Nature Communications。"
+    },
+    "url": "https://www.nature.com/articles/s41467-022-29695-6"
+  },
+  {
+    "date": "2021-09-01",
+    "text": {
+      "en": "Co-first-author paper on the 3'HS1 CTCF site published in eLife.",
+      "zh": "共同第一作者论文（3'HS1 CTCF 位点）发表于 eLife。"
+    },
+    "url": "https://elifesciences.org/articles/70557"
+  },
+  {
+    "date": "2021-05-01",
+    "text": {
+      "en": "Co-author paper \"scHiCTools\" published in PLoS Computational Biology.",
+      "zh": "合作者论文《scHiCTools》发表于 PLoS Computational Biology。"
+    },
+    "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008978"
+  }
+]

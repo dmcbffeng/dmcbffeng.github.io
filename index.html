@@ -1,205 +1,145 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="dark">
 <head>
-	<!-- Google tag (gtag.js) -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=G-NDBSV0S0E3"></script>
-	<script>
-		window.dataLayer = window.dataLayer || [];
-		function gtag(){dataLayer.push(arguments);}
-		gtag('js', new Date());
-
-		gtag('config', 'G-NDBSV0S0E3');
-	</script>
-
-	<meta charset="utf-8">
-	<meta name="viewport"    content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="">
-	<meta name="author"      content="Sergey Pozhilov (GetTemplate.com)">
-	
-	<title>Fan Feng Personal Website</title>
-
-	<link rel="shortcut icon" href="assets/images/gt_favicon.png">
-	
-	<!-- Bootstrap -->
-	<link href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.no-icons.min.css" rel="stylesheet">
-	<!-- Icons -->
-	<link href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
-	<!-- Fonts -->
-	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alice|Open+Sans:400,300,700">
-	<!-- Custom styles -->
-	<link rel="stylesheet" href="assets/css/styles.css">
-
-	<!--[if lt IE 9]> <script src="assets/js/html5shiv.js"></script> <![endif]-->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fan Feng | Research × Tech × Travel</title>
+  <meta name="description" content="Personal website of Fan Feng: computational biology research at Vanderbilt, open-source tools, and travel stories.">
+  <meta name="theme-color" content="#070b15">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='14' fill='%236bb4ff'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <script>
+    (function () {
+      try {
+        var t = localStorage.getItem("site_theme");
+        if (!t && window.matchMedia && window.matchMedia("(prefers-color-scheme: light)").matches) t = "light";
+        if (t === "light") document.documentElement.setAttribute("data-theme", "light");
+      } catch (e) {}
+    })();
+  </script>
 </head>
-<body class="home">
+<body data-page="home">
+  <canvas id="starfield" aria-hidden="true"></canvas>
+  <div class="grid-overlay" aria-hidden="true"></div>
 
-<header id="header">
-	<div id="head" class="parallax" parallax-speed="2">
-		<h1 id="logo" class="text-center">
-			<img class="img-circle" src="assets/images/fan_portrait.jpg" alt="">
-			<span class="title">Fan Feng</span>
-			<span class="tagline">
-				Research Fellow<br>
-				Department of Medicine, Vanderbilt University Medical Center<br>
-				<br>
-				Ph.D. in Bioinformatics, University of Michigan - Ann Arbor<br>
-				B.Sc. in Chemical Biology, Peking University
-			</span>
-		</h1>
-	</div>
+  <header class="site-header">
+    <a href="index.html" class="brand">
+      <span class="brand-dot"></span>
+      <span>Fan Feng</span>
+    </a>
+    <nav class="site-nav" aria-label="Primary">
+      <a href="index.html" data-i18n="nav.home"></a>
+      <a href="cv.html" data-i18n="nav.cv"></a>
+      <a href="news.html" data-i18n="nav.news"></a>
+      <a href="works.html" data-i18n="nav.works"></a>
+      <a href="world.html" data-i18n="nav.world"></a>
+    </nav>
+    <div class="nav-actions">
+      <button class="icon-btn" id="themeToggle" type="button" data-i18n-aria="a11y.toggleTheme" aria-label="Toggle theme"></button>
+      <button class="lang-switch" id="langSwitch" type="button" data-i18n-aria="a11y.toggleLang" aria-label="Switch language"></button>
+      <button class="icon-btn nav-toggle" id="navToggle" type="button" data-i18n-aria="a11y.toggleNav" aria-expanded="false" aria-label="Toggle navigation"></button>
+    </div>
+  </header>
 
-	<nav class="navbar navbar-default navbar-sticky">
-		<div class="container-fluid">
-			<div class="navbar-header">
-				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
-			</div>
-			
-			<div class="navbar-collapse collapse" id="bs-example-navbar-collapse-1">
-				<ul class="nav navbar-nav">
-					<li class="active"><a href="index.html">Home</a></li>
-					<li><a href="cv_english.html">Resume</a></li>
-					<li><a href="blog.html">Activities</a></li>
-					<li class="pull-right"><a href="index_cn.html">中文</a></li>
-				</ul>
-			</div><!--/.nav-collapse -->			
-		</div>	
-	</nav>
-</header>
+  <main class="page page-home">
+    <section class="hero glass">
+      <div class="hero-copy">
+        <p class="kicker" data-i18n="home.kicker"></p>
+        <h1 data-i18n="home.title"></h1>
+        <p class="lead" data-i18n="home.subtitle"></p>
+        <div class="hero-cta">
+          <a class="btn primary" href="works.html" data-i18n="home.ctaWorks"></a>
+          <a class="btn ghost" href="news.html" data-i18n="home.ctaNews"></a>
+        </div>
+      </div>
+      <div class="hero-panel">
+        <h2 data-i18n="home.panelTitle"></h2>
+        <ul id="homeHighlights" class="list-plain"></ul>
+        <div class="hero-cta">
+          <a class="btn ghost" href="https://scholar.google.com/citations?user=1EXo-hIAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar ↗</a>
+          <a class="btn ghost" href="https://github.com/dmcbffeng" target="_blank" rel="noopener">GitHub ↗</a>
+          <a class="btn ghost" href="https://www.linkedin.com/in/fan-feng-974842120/" target="_blank" rel="noopener">LinkedIn ↗</a>
+        </div>
+      </div>
+    </section>
 
-<main id="main">
-	<div class="container">
-		<div class="row section topspace">
-			<div class="col-md-12">
-				<p class="lead text-center text-muted">
-					Welcome! I am Fan Feng, a researcher at Vanderbilt University Medical Center, where I explore the intersection of computational biology, imaging, and machine learning to better understand pancreatic islets and diabetes.
-					My work focuses on extracting meaningful insights from complex multimodal datasets using cutting-edge techniques like multiplexed imaging, spatial analysis, and deep learning.
-					Beyond the lab, I am an travel enthusiast and lifelong learner, always curious about new ideas, cultures, and technologies.
-					This site is a space where I share my research, interests, and ongoing journey through science and the world.
-				</p>
-			</div>
-		</div>
+    <section class="section glass">
+      <div class="section-head">
+        <h2 data-i18n="home.aboutTitle"></h2>
+      </div>
+      <div id="homeAbout" class="about-block"></div>
+    </section>
 
-		<div class="row section recentworks topspace">
-			<h2 class="section-title"><span>My Activities</span></h2>
-			
-			<div class="thumbnails recentworks row">
-				<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-					<a class="thumbnail" href="cv_english.html">
-						<span class="img">
-							<img src="assets/images/blog_picture/201708_football.jpg" alt="">
-							<span class="cover"><span class="more">About me &rarr;</span></span>
-						</span>
-						<span class="title">Fan's Resume</span>
-					</a>
-				</div>
-				
-				<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-					<a class="thumbnail" href="blog/genomickb.html">
-						<span class="img">
-							<img src="assets/images/blog_picture/202212_GKB.png" alt="">
-							<span class="cover"><span class="more">Research &rarr;</span></span>
-						</span>
-						<span class="title">"GenomicKB - a knowledge graph for the human genome"</span>
-					</a>
-				</div>
+    <section class="section glass">
+      <div class="section-head">
+        <h2 data-i18n="home.focusTitle"></h2>
+      </div>
+      <div id="homeFocusGrid" class="focus-grid"></div>
+    </section>
 
-				<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-					<a class="thumbnail" href="blog/fingerprint.html">
-						<span class="img">
-							<img src="assets/images/blog_picture/islet_images.png" alt="">
-							<span class="cover"><span class="more">Research &rarr;</span></span>
-						</span>
-						<span class="title">Exploring pancreatic islets with multiplexed imaging</span>
-					</a>
-				</div>
-				
-				<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-					<a class="thumbnail" href="blog.html">
-						<span class="img">
-							<img src="assets/images/blog_picture/202301_Rome.jpg" alt="">
-							<span class="cover"><span class="more">Travel &rarr;</span></span>
-						</span>
-						<span class="title">Unlocking the world</span>
-					</a>
-				</div>
+    <section class="section">
+      <div class="section-head">
+        <h2 data-i18n="home.quickAccess"></h2>
+      </div>
+      <div class="card-grid">
+        <a class="card-link" href="cv.html">
+          <h3 data-i18n="home.cards.cv.title"></h3>
+          <p data-i18n="home.cards.cv.desc"></p>
+        </a>
+        <a class="card-link" href="news.html">
+          <h3 data-i18n="home.cards.news.title"></h3>
+          <p data-i18n="home.cards.news.desc"></p>
+        </a>
+        <a class="card-link" href="works.html">
+          <h3 data-i18n="home.cards.works.title"></h3>
+          <p data-i18n="home.cards.works.desc"></p>
+        </a>
+        <a class="card-link" href="world.html">
+          <h3 data-i18n="home.cards.world.title"></h3>
+          <p data-i18n="home.cards.world.desc"></p>
+        </a>
+      </div>
+    </section>
 
-				<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-					<a class="thumbnail" href="blog/caesar.html">
-						<span class="img">
-							<img src="assets/images/blog_picture/202204_CAESAR.png" alt="">
-							<span class="cover"><span class="more">Research &rarr;</span></span>
-						</span>
-						<span class="title">CAESAR: predict 3D chromatin structure from epigenomics</span>
-					</a>
-				</div>
-				
-				<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-					<a class="thumbnail" href="blog.html">
-						<span class="img">
-							<img src="assets/images/blog_picture/201908_UN.jpg" alt="">
-							<span class="cover"><span class="more">Work &rarr;</span></span>
-						</span>
-						<span class="title">Host a workshop at the UN civil society conference</span>
-					</a>
-				</div>
+    <section class="home-data-grid">
+      <article class="glass data-card">
+        <div class="section-head">
+          <h2 data-i18n="home.recentNews"></h2>
+        </div>
+        <ul id="homeRecentNews" class="timeline compact"></ul>
+      </article>
+      <article class="glass data-card">
+        <div class="section-head">
+          <h2 data-i18n="home.cvSnapshot"></h2>
+        </div>
+        <div class="snapshot-block">
+          <h3 data-i18n="home.currentRole"></h3>
+          <ul id="homeCvRole"></ul>
+        </div>
+        <div class="snapshot-block">
+          <h3 data-i18n="home.education"></h3>
+          <ul id="homeCvEducation"></ul>
+        </div>
+      </article>
+    </section>
 
-			</div>
-		</div>
-	</div>
-</main>
+    <section class="section glass">
+      <div class="section-head">
+        <h2 data-i18n="home.featuredWorks"></h2>
+      </div>
+      <div id="homeFeaturedWorks" class="card-grid"></div>
+    </section>
+  </main>
 
-<footer id="footer">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-3 widget">
-				<h3 class="widget-title">Contact</h3>
-				<div class="widget-body">
-					<p>E-mail:<br>
-						<a href="mailto:#">fan.feng@vumc.org</a><br>
-						<br>
-						Address:<br>
-						2215 Garland Ave., Nashville, Tennessee, 37232
-					</p>	
-				</div>
-			</div>
+  <footer class="site-footer">
+    <p><span data-i18n="footer.contact"></span> <a href="mailto:fan.feng@vumc.org">fan.feng@vumc.org</a></p>
+    <p><span data-i18n="footer.social"></span> <a href="https://scholar.google.com/citations?user=1EXo-hIAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a> · <a href="https://github.com/dmcbffeng" target="_blank" rel="noopener">GitHub</a> · <a href="https://www.linkedin.com/in/fan-feng-974842120/" target="_blank" rel="noopener">LinkedIn</a></p>
+  </footer>
 
-			<div class="col-md-3 widget">
-				<h3 class="widget-title">Follow me</h3>
-				<div class="widget-body">
-					<p class="follow-me-icons">
-						<a href="https://www.linkedin.com/in/fan-feng-974842120/"><i class="fa fa-linkedin fa-2"></i></a>
-						<a href="https://scholar.google.com/citations?user=1EXo-hIAAAAJ&hl=en"><i class="fa fa-google-plus-square fa-2"></i></a>
-						<a href="https://github.com/dmcbffeng"><i class="fa fa-github fa-2"></i></a>
-						<a href="https://www.facebook.com/fan.feng.79274"><i class="fa fa-facebook fa-2"></i></a>
-					</p>
-				</div>
-			</div>
-
-			<div class="col-md-3 widget">
-				<h3 class="widget-title">Thanks for visiting!</h3>
-				<div class="widget-body">
-					<p></p>
-				</div>
-			</div>
-		</div>
-	</div>
-</footer>
-
-<footer id="underfooter">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-6 widget">
-				<div class="widget-body">
-					<p>Template: Initio by GetTemplate</p>
-				</div>
-			</div>
-		</div>
-	</div>
-</footer>
-
-<!-- JavaScript libs are placed at the end of the document so the pages load faster -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script src="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
-<script src="assets/js/template.js"></script>
+  <script src="assets/js/i18n.js"></script>
+  <script src="assets/js/app.js"></script>
 </body>
 </html>

@@ -149,16 +149,16 @@
       "title": { "en": "Invited Talks", "zh": "受邀报告" },
       "items": [
         {
-          "en": "\"PanKbase – a knowledge base for the pancreas & diabetes community\", Sugar Science D-Challenge Seminar, Virtual, Oct. 2025",
-          "zh": "\"PanKbase – a knowledge base for the pancreas & diabetes community\", Sugar Science D-Challenge Seminar, 线上报告, 2025年10月。"
+          "en": "\"PanKbase – a knowledge base for the pancreas & diabetes community\", <i>Sugar Science D-Challenge Seminar</i>, Virtual, Oct. 2025",
+          "zh": "\"PanKbase – a knowledge base for the pancreas & diabetes community\", <i>Sugar Science D-Challenge Seminar</i>, 线上报告, 2025年10月。"
         },
         {
-          "en": "\"Defining the composition and spatial organization of human pancreatic cells with computational approaches\", Beta Cell Interest Group (BIG) Seminar, Nashville, USA, Feb. 2025",
-          "zh": "\"Defining the composition and spatial organization of human pancreatic cells with computational approaches\", Beta Cell Interest Group (BIG) Seminar, 美国纳什维尔, 2025年2月。"
+          "en": "\"Defining the composition and spatial organization of human pancreatic cells with computational approaches\", <i>Beta Cell Interest Group (BIG) Seminar</i>, Nashville, USA, Feb. 2025",
+          "zh": "\"Defining the composition and spatial organization of human pancreatic cells with computational approaches\", <i>Beta Cell Interest Group (BIG) Seminar</i>, 美国纳什维尔, 2025年2月。"
         },
         {
-          "en": "\"Defining human pancreatic cell composition and spatial distribution with machine learning methods\", AI in Precision Medicine of Diabetes and Other Chronic Diseases Workshop, Rockville, USA, Oct. 2024",
-          "zh": "\"Defining human pancreatic cell composition and spatial distribution with machine learning methods\", AI in Precision Medicine of Diabetes and Other Chronic Diseases Workshop, 美国罗克维尔, 2024年10月。"
+          "en": "\"Defining human pancreatic cell composition and spatial distribution with machine learning methods\", <i>AI in Precision Medicine of Diabetes and Other Chronic Diseases Workshop</i>, Rockville, USA, Oct. 2024",
+          "zh": "\"Defining human pancreatic cell composition and spatial distribution with machine learning methods\", <i>AI in Precision Medicine of Diabetes and Other Chronic Diseases Workshop</i>, 美国罗克维尔, 2024年10月。"
         },
         {
           "en": "\"Application of knowledge graphs in biomedical fields\", <i>CCHC Omics Seminar</i>, Nashville, USA, Oct 2024.",
@@ -174,11 +174,11 @@
         },
         {
           "en": "\"An overview of Hi-C downstream analysis\", <i>Chromatin 3D Folding Workshop</i>, UT Health, Houston, USA, Mar 2023.",
-          "zh": "\"An overview of Hi-C downstream analysis\", <i>Chromatin 3D Folding Workshop</i>, UT Health (休斯敦), 2023年3月。"
+          "zh": "\"An overview of Hi-C downstream analysis\", <i>Chromatin 3D Folding Workshop</i>, UT Health， 美国休斯敦, 2023年3月。"
         },
         {
           "en": "\"GenomicKB: a knowledge graph for human genome\", <i>Tools and Technology Seminar</i>, University of Michigan, Ann Arbor, USA, Jan 2023.",
-          "zh": "\"GenomicKB: a knowledge graph for human genome\", <i>Tools and Technology Seminar</i>, 密歇根大学安娜堡分校, 2023年1月。"
+          "zh": "\"GenomicKB: a knowledge graph for human genome\", <i>密歇根大学 Tools and Technology Seminar</i>, 美国安娜堡, 2023年1月。"
         },
         {
           "en": "\"Connecting high-resolution 3D chromatin organization with epigenomics\", <i>ISMB</i>, Madison, USA, Jul 2022.",

@@ -150,6 +150,38 @@ Edit `data/world.json`. Template: `templates/world-template.json`.
 4. Paste them straight into the new entry in `data/world.json`.
 5. Remove `?calibrate=1` from the URL to see the rendered pin.
 
+### Generate thumbnails for travel images (recommended)
+
+Large travel images can slow down the map page. A practical solution is to keep:
+
+- originals in `assets/images/travel/`
+- thumbnails in `assets/images/travel/thumbs/`
+
+Use the script:
+
+```bash
+python3 scripts/generate_travel_thumbnails.py
+```
+
+Optional (also rewrite `data/world.json` so each `thumbnail` points to `thumbs/...`):
+
+```bash
+python3 scripts/generate_travel_thumbnails.py --rewrite-world-json
+```
+
+Useful options:
+
+```bash
+# overwrite old thumbs, set longer edge to 300px, quality 80
+python3 scripts/generate_travel_thumbnails.py --overwrite --max-size 300 --quality 80
+```
+
+Dependency:
+
+```bash
+python3 -m pip install Pillow
+```
+
 Tip: if you only know lat/lng (e.g. Nashville is 36.16°N, −86.78°W from
 Google Maps — right-click any spot and the first number is the lat/lng),
 you can start with a rough estimate, then calibrate on the real map to

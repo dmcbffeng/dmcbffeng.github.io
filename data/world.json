@@ -10,7 +10,7 @@
       "lng": -123.12,
       "xPercent": 13.42,
       "yPercent": 20.71,
-      "thumbnail": "assets/images/travel/vancouver.jpg",
+      "thumbnail": "assets/images/travel/thumbs/vancouver.jpg",
       "fullImage": "assets/images/travel/vancouver.jpg",
       "note": {
         "en": "Grouse Mountain, Vancouver.",
@@ -27,7 +27,7 @@
       "lng": 113.54,
       "xPercent": 77.99,
       "yPercent": 35.89,
-      "thumbnail": "assets/images/travel/macau.jpg",
+      "thumbnail": "assets/images/travel/thumbs/macau.jpg",
       "fullImage": "assets/images/travel/macau.jpg",
       "note": {
         "en": "Macau, Ruins of St. Paul's.",
@@ -44,7 +44,7 @@
       "lng": 102.6,
       "xPercent": 75.25,
       "yPercent": 39.04,
-      "thumbnail": "assets/images/travel/vientiane.jpg",
+      "thumbnail": "assets/images/travel/thumbs/vientiane.jpg",
       "fullImage": "assets/images/travel/vientiane.jpg",
       "note": {
         "en": "Vientiane, the capital of Laos.",
@@ -61,7 +61,7 @@
       "lng": -72.54,
       "xPercent": 27.67,
       "yPercent": 57.96,
-      "thumbnail": "assets/images/travel/machupicchu.jpg",
+      "thumbnail": "assets/images/travel/thumbs/machupicchu.jpg",
       "fullImage": "assets/images/travel/machupicchu.jpg",
       "note": {
         "en": "Machu Picchu, the lost city of the Incas.",
@@ -78,7 +78,7 @@
       "lng": -90.74,
       "xPercent": 22.41,
       "yPercent": 38.06,
-      "thumbnail": "assets/images/travel/guatemala.jpg",
+      "thumbnail": "assets/images/travel/thumbs/guatemala.jpg",
       "fullImage": "assets/images/travel/guatemala.jpg",
       "note": {
         "en": "Witnessing a volcanic eruption in Guatemala.",
@@ -95,7 +95,7 @@
       "lng": -79.52,
       "xPercent": 25.04,
       "yPercent": 43.97,
-      "thumbnail": "assets/images/travel/panama.jpg",
+      "thumbnail": "assets/images/travel/thumbs/panama.jpg",
       "fullImage": "assets/images/travel/panama.jpg",
       "note": {
         "en": "Watching cargo ships pass through the Panama Canal.",
@@ -112,7 +112,7 @@
       "lng": 31.23,
       "xPercent": 55.19,
       "yPercent": 31.75,
-      "thumbnail": "assets/images/travel/cairo.jpg",
+      "thumbnail": "assets/images/travel/thumbs/cairo.jpg",
       "fullImage": "assets/images/travel/cairo.jpg",
       "note": {
         "en": "Mummies in the museum in Cairo.",
@@ -129,7 +129,7 @@
       "lng": -99.13,
       "xPercent": 19.12,
       "yPercent": 36.44,
-      "thumbnail": "assets/images/travel/mexicocity.jpg",
+      "thumbnail": "assets/images/travel/thumbs/mexicocity.jpg",
       "fullImage": "assets/images/travel/mexicocity.jpg",
       "note": {
         "en": "Teotihuacan, Sun Pyramid.",
@@ -146,7 +146,7 @@
       "lng": 18.41,
       "xPercent": 52.56,
       "yPercent": 22.44,
-      "thumbnail": "assets/images/travel/sarajevo.jpg",
+      "thumbnail": "assets/images/travel/thumbs/sarajevo.jpg",
       "fullImage": "assets/images/travel/sarajevo.jpg",
       "note": {
         "en": "Hanging out in Sarajevo.",
@@ -154,13 +154,16 @@
       }
     },
     {
-      "city": { "en": "Istanbul, Turkey", "zh": "土耳其·伊斯坦布尔" },
+      "city": {
+        "en": "Istanbul, Turkey",
+        "zh": "土耳其·伊斯坦布尔"
+      },
       "date": "2024-05-28",
       "lat": 41.01,
       "lng": 28.98,
       "xPercent": 54.97,
       "yPercent": 25.05,
-      "thumbnail": "assets/images/travel/istanbul.jpg",
+      "thumbnail": "assets/images/travel/thumbs/istanbul.jpg",
       "fullImage": "assets/images/travel/istanbul.jpg",
       "note": {
         "en": "Hagia Sophia in Istanbul.",
@@ -168,13 +171,16 @@
       }
     },
     {
-      "city": { "en": "Salt Lake City, USA", "zh": "美国·盐湖城" },
+      "city": {
+        "en": "Salt Lake City, USA",
+        "zh": "美国·盐湖城"
+      },
       "date": "2019-08-03",
       "lat": 40.76,
       "lng": -111.89,
       "xPercent": 18.1,
       "yPercent": 23.1,
-      "thumbnail": "assets/images/travel/un.jpg",
+      "thumbnail": "assets/images/travel/thumbs/un.jpg",
       "fullImage": "assets/images/travel/un.jpg",
       "note": {
         "en": "Attending the UN Civil Society Conference and hosting a workshop in Salt Lake City.",
@@ -182,13 +188,16 @@
       }
     },
     {
-      "city": { "en": "Beijing, China", "zh": "中国·北京" },
+      "city": {
+        "en": "Beijing, China",
+        "zh": "中国·北京"
+      },
       "date": "2017-08-09",
       "lat": 39.98,
       "lng": 116.33,
       "xPercent": 77.88,
       "yPercent": 25.25,
-      "thumbnail": "assets/images/travel/football.jpg",
+      "thumbnail": "assets/images/travel/thumbs/football.jpg",
       "fullImage": "assets/images/travel/football.jpg",
       "note": {
         "en": "The Department of Chemistry and Molecular Engineering Football Team.",
@@ -196,13 +205,16 @@
       }
     },
     {
-      "city": { "en": "Baku, Azerbaijan", "zh": "阿塞拜疆·巴库" },
+      "city": {
+        "en": "Baku, Azerbaijan",
+        "zh": "阿塞拜疆·巴库"
+      },
       "date": "2026-02-10",
       "lat": 40.37,
       "lng": 49.85,
       "xPercent": 60.45,
       "yPercent": 25.44,
-      "thumbnail": "assets/images/travel/baku.jpg",
+      "thumbnail": "assets/images/travel/thumbs/baku.jpg",
       "fullImage": "assets/images/travel/baku.jpg",
       "note": {
         "en": "Lion painting in the old city of Baku.",
@@ -210,13 +222,16 @@
       }
     },
     {
-      "city": { "en": "Doha, Qatar", "zh": "卡塔尔·多哈" },
+      "city": {
+        "en": "Doha, Qatar",
+        "zh": "卡塔尔·多哈"
+      },
       "date": "2026-02-09",
       "lat": 25.28,
       "lng": 51.53,
       "xPercent": 61.22,
       "yPercent": 33.92,
-      "thumbnail": "assets/images/travel/doha.jpg",
+      "thumbnail": "assets/images/travel/thumbs/doha.jpg",
       "fullImage": "assets/images/travel/doha.jpg",
       "note": {
         "en": "Lusail Stadium, the venue of the 2022 FIFA World Cup final.",
@@ -224,13 +239,16 @@
       }
     },
     {
-      "city": { "en": "Arches National Park, USA", "zh": "美国·拱门国家公园" },
+      "city": {
+        "en": "Arches National Park, USA",
+        "zh": "美国·拱门国家公园"
+      },
       "date": "2025-09-28",
       "lat": 38.68,
       "lng": -109.57,
       "xPercent": 17.1,
       "yPercent": 25.1,
-      "thumbnail": "assets/images/travel/arches.jpg",
+      "thumbnail": "assets/images/travel/thumbs/arches.jpg",
       "fullImage": "assets/images/travel/arches.jpg",
       "note": {
         "en": "Arches National Park is a beautiful national park in the USA.",
@@ -238,13 +256,16 @@
       }
     },
     {
-      "city": { "en": "Dominica", "zh": "多米尼克" },
+      "city": {
+        "en": "Dominica",
+        "zh": "多米尼克"
+      },
       "date": "2025-11-28",
       "lat": 18.05,
       "lng": -63.12,
       "xPercent": 31.25,
       "yPercent": 40.96,
-      "thumbnail": "assets/images/travel/dominica.jpg",
+      "thumbnail": "assets/images/travel/thumbs/dominica.jpg",
       "fullImage": "assets/images/travel/dominica.jpg",
       "note": {
         "en": "Dominica is a beautiful island in the Caribbean.",
@@ -252,13 +273,16 @@
       }
     },
     {
-      "city": { "en": "Sint Maarten, Caribbean", "zh": "加勒比·圣马丁" },
+      "city": {
+        "en": "Sint Maarten, Caribbean",
+        "zh": "加勒比·圣马丁"
+      },
       "date": "2025-03-28",
       "lat": 18.05,
       "lng": -63.12,
       "xPercent": 30.25,
       "yPercent": 38.4,
-      "thumbnail": "assets/images/travel/stmartin.jpg",
+      "thumbnail": "assets/images/travel/thumbs/stmartin.jpg",
       "fullImage": "assets/images/travel/stmartin.jpg",
       "note": {
         "en": "Plane-spotting day at Maho Beach — turquoise sea and loud engines overhead.",
@@ -267,13 +291,16 @@
       "link": "https://www.bilibili.com/video/BV1v2oQYQEMJ/"
     },
     {
-      "city": { "en": "Rome, Italy", "zh": "意大利·罗马" },
+      "city": {
+        "en": "Rome, Italy",
+        "zh": "意大利·罗马"
+      },
       "date": "2023-01-24",
       "lat": 41.9,
       "lng": 12.5,
       "xPercent": 50.53,
       "yPercent": 24.8,
-      "thumbnail": "assets/images/travel/rome.jpg",
+      "thumbnail": "assets/images/travel/thumbs/rome.jpg",
       "fullImage": "assets/images/travel/rome.jpg",
       "note": {
         "en": "Ancient streets, warm winter light, and endless stories to wander into.",
@@ -282,13 +309,16 @@
       "link": "https://www.bilibili.com/video/BV19M411W75A/"
     },
     {
-      "city": { "en": "Bremen, Germany", "zh": "德国·不来梅" },
+      "city": {
+        "en": "Bremen, Germany",
+        "zh": "德国·不来梅"
+      },
       "date": "2023-01-28",
       "lat": 53.08,
       "lng": 8.8,
       "xPercent": 49.19,
       "yPercent": 18.53,
-      "thumbnail": "assets/images/travel/bremen.jpg",
+      "thumbnail": "assets/images/travel/thumbs/bremen.jpg",
       "fullImage": "assets/images/travel/bremen.jpg",
       "note": {
         "en": "Matchday vibes, winter wind, and unforgettable energy in the stands.",
@@ -297,13 +327,16 @@
       "link": "https://www.bilibili.com/video/BV1jA411r73Y/"
     },
     {
-      "city": { "en": "Nashville, USA", "zh": "美国·纳什维尔" },
+      "city": {
+        "en": "Nashville, USA",
+        "zh": "美国·纳什维尔"
+      },
       "date": "2025-06-06",
       "lat": 36.16,
       "lng": -86.78,
       "xPercent": 23.1,
       "yPercent": 26.91,
-      "thumbnail": "assets/images/travel/nashville.jpg",
+      "thumbnail": "assets/images/travel/thumbs/nashville.jpg",
       "fullImage": "assets/images/travel/nashville.jpg",
       "note": {
         "en": "Attending the CVPR 2025 conference in Nashville.",

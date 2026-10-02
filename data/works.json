@@ -62,10 +62,10 @@
     "links": [
       {
         "label": {
-          "en": "Nature Communications (journal)",
-          "zh": "Nature Communications 期刊主页"
+          "en": "Paper (Nature Communications)",
+          "zh": "论文（Nature Communications）"
         },
-        "url": "https://www.nature.com/ncomms/"
+        "url": "https://www.nature.com/articles/s41467-026-73854-y"
       },
       {
         "label": { "en": "Brissova Lab", "zh": "Brissova 实验室" },

@@ -62,20 +62,20 @@
           "zh": "Zhang, Z., Huang, Y., <b>Feng, F.</b>, & Liu, J. (2026). A low-rank decoder bottleneck bounds reliability in foundation-model perturbation prediction. (<i>NeurIPS 2026</i> 已接收 待发布)"
         },
         {
-          "en": "Saunders, D. C.*, <b>Feng, F.*</b>, Hopkirk, A. E.*, Aamodt, K. I.*, Hart, N.*, Pan, F. C.*, ..., Wright, C. V. E., Powers, A. C. & Brissova, M. (2024). Mapping histological and functional maturation of human endocrine pancreas across early postnatal periods. (Accepted in Principle by <i>Nature Communications</i>) (*co-first author)",
-          "zh": "Saunders, D. C.*, <b>Feng, F.*</b>, Hopkirk, A. E.*, Aamodt, K. I.*, Hart, N.*, Pan, F. C.*, ..., Wright, C. V. E., Powers, A. C. & Brissova, M. (2024). Mapping histological and functional maturation of human endocrine pancreas across early postnatal periods. (<i>Nature Communications</i> 已接收 待发布) (*共同第一作者)"
+          "en": "Saunders, D. C.*, <b>Feng, F.*</b>, Hopkirk, A. L.*, Aamodt, K. I.*, Hart, N.*, Pan, F. C.*, ..., Wright, C. V. E., Powers, A. C. & Brissova, M. (2026). Mapping histologic and functional maturation of human endocrine pancreas across early postnatal periods. <i>Nature Communications</i>, 17(1): 5447. (*co-first author)",
+          "zh": "Saunders, D. C.*, <b>Feng, F.*</b>, Hopkirk, A. L.*, Aamodt, K. I.*, Hart, N.*, Pan, F. C.*, ..., Wright, C. V. E., Powers, A. C. & Brissova, M. (2026). Mapping histologic and functional maturation of human endocrine pancreas across early postnatal periods. <i>Nature Communications</i>, 17(1): 5447. (*共同第一作者)"
         },
         {
-          "en": "<b>Feng, F.*</b>, Moran, S. P.*, & Liu, J. (2025) Statistically rigorous and computationally efficient chromatin stripe detection with Quagga. <i>Genome Biology</i>, 36.1: 159-168 (*co-first author)",
-          "zh": "<b>Feng, F.*</b>, Moran, S. P.*, & Liu, J. (2025) Statistically rigorous and computationally efficient chromatin stripe detection with Quagga. <i>Genome Biology</i>, 36.1: 159-168 (*共同第一作者)"
+          "en": "<b>Feng, F.*</b>, Moran, S.*, Hansen, A. S., Zhang, X., & Liu, J. (2026). Statistically rigorous and computationally efficient chromatin stripe detection with Quagga. <i>Genome Research</i>, 36(1): 159–168. (*co-first author)",
+          "zh": "<b>Feng, F.*</b>, Moran, S.*, Hansen, A. S., Zhang, X., & Liu, J. (2026). Statistically rigorous and computationally efficient chromatin stripe detection with Quagga. <i>Genome Research</i>, 36(1): 159–168. (*共同第一作者)"
         },
         {
-          "en": "Luo, X., Huang, Y., Zeng, H., Tao, Y., Bao, X., <b>Feng, F.</b>, Hopkirk, A., Bate, T. S., … & Liu, J. (2024). CelLink: integrating single-cell multi-omics data with weak feature linkage and imbalanced cell populations. <i>Nucleic Acids Research</i>, 53.22: gkaf1270.",
-          "zh": "Luo, X., Huang, Y., Zeng, H., Tao, Y., Bao, X., <b>Feng, F.</b>, Hopkirk, A., Bate, T. S., … & Liu, J. (2024). CelLink: integrating single-cell multi-omics data with weak feature linkage and imbalanced cell populations. <i>Nucleic Acids Research</i>, 53.22: gkaf1270."
+          "en": "Luo, X., Huang, Y., Zeng, H., Tao, Y., Bao, X., <b>Feng, F.</b>, Hopkirk, A., Bate, T. S., … & Liu, J. (2025). CelLink: integrating single-cell multi-omics data with weak feature linkage and imbalanced cell populations. <i>Nucleic Acids Research</i>, 53(22): gkaf1270.",
+          "zh": "Luo, X., Huang, Y., Zeng, H., Tao, Y., Bao, X., <b>Feng, F.</b>, Hopkirk, A., Bate, T. S., … & Liu, J. (2025). CelLink: integrating single-cell multi-omics data with weak feature linkage and imbalanced cell populations. <i>Nucleic Acids Research</i>, 53(22): gkaf1270."
         },
         {
-          "en": "Evans-Molina, C., Pettway, Y. D., Saunders, …, <b>Feng, F.</b>, … & Brissova, M. (2024). Heterogeneous endocrine cell composition defines human islet functional phenotypes. (Accepted in Principle by <i>Nature Communications</i>)",
-          "zh": "Evans-Molina, C., Pettway, Y. D., Saunders, …, <b>Feng, F.</b>, … & Brissova, M. (2024). Heterogeneous endocrine cell composition defines human islet functional phenotypes. (<i>Nature Communications</i> 已接收 待发布)"
+          "en": "Evans-Molina, C., Pettway, Y. D., Saunders, D. C., …, <b>Feng, F.</b>, … & Brissova, M. (2026). Heterogeneous endocrine cell composition defines human islet functional phenotypes. <i>Nature Communications</i>, 17(1): 4223.",
+          "zh": "Evans-Molina, C., Pettway, Y. D., Saunders, D. C., …, <b>Feng, F.</b>, … & Brissova, M. (2026). Heterogeneous endocrine cell composition defines human islet functional phenotypes. <i>Nature Communications</i>, 17(1): 4223."
         },
         {
           "en": "Varshney, A., Manickam, N., Orchard, P., Tovar, A., Ventresca, C., Zhang, Z., <b>Feng, F.</b>, ... & Parker, S. C. (2023). Population-scale skeletal muscle single-nucleus multi-omic profiling reveals extensive context specific genetic regulation. <i>bioRxiv</i>, 2023-12. (Accepted in Principle by <i>Nature Genetics</i>)",
@@ -139,8 +139,8 @@
           "zh": "Wang, X. Q. D.*, Yang, W.*, <b>Feng, F.*</b>, Shum, M., Bell, O., Liu, J., Zhang, X., & Dou, Y. (2025). HOXA9 Couples Transcriptional Control with Higher-Order Chromatin Architecture in Acute Myeloid Leukemia. (提交至 <i>Cancer Discovery</i>) (*共同第一作者)"
         },
         {
-          "en": "Moran, S., Fan, Z., Zanovello, M., <b>Feng, F.</b>, Wang, D. X. Q., Lu, C., Liu, J., Zhang, X. (2025). Pan-cancer 3D genomic analysis revealed extremely long Polycomb loops as the biomarker for sensitivity to Polycomb inhibition, <i>bioRxiv</i>, 2025-12 (Submitted to <i>Cancer Discovery</i>)",
-          "zh": "Moran, S., Fan, Z., Zanovello, M., <b>Feng, F.</b>, Wang, D. X. Q., Lu, C., Liu, J., Zhang, X. (2025). Pan-cancer 3D genomic analysis revealed extremely long Polycomb loops as the biomarker for sensitivity to Polycomb inhibition, <i>bioRxiv</i>, 2025-12 (提交至 <i>Cancer Discovery</i>)"
+          "en": "Moran, S., Fan, Z., Zanovello, M., <b>Feng, F.</b>, Wang, D. X. Q., Lu, C., Liu, J., Zhang, X. (2025). Pan-cancer 3D genomic analysis revealed extremely long Polycomb loops as the biomarker for sensitivity to Polycomb inhibition, <i>bioRxiv</i>, 2025-10 (Submitted to <i>Cancer Discovery</i>)",
+          "zh": "Moran, S., Fan, Z., Zanovello, M., <b>Feng, F.</b>, Wang, D. X. Q., Lu, C., Liu, J., Zhang, X. (2025). Pan-cancer 3D genomic analysis revealed extremely long Polycomb loops as the biomarker for sensitivity to Polycomb inhibition, <i>bioRxiv</i>, 2025-10 (提交至 <i>Cancer Discovery</i>)"
         },
         {
           "en": "Huang, Y., Han, Z., Luo, X., …, <b>Feng, F.</b>, … & Liu, J. (2024). Building a literature knowledge base towards transparent biomedical AI. (under review, <i>Nature Machine Intelligence</i>)",

@@ -16,7 +16,7 @@ const I18N = {
       kicker: "RESEARCH × TECH × TRAVEL",
       title: "Hi, I'm Fan - a computational biologist and data scientist.",
       subtitle:
-        "Research Fellow at Vanderbilt University Medical Center. I work at the intersection of AI and biology. I am also a world traveler.",
+        "I work at the intersection of AI and biology — 3D genomics, multiplexed imaging, and islet biology. I am also a world traveler.",
       ctaWorks: "Explore research",
       ctaNews: "Latest news",
       panelTitle: "Fan's Profile",
@@ -25,7 +25,7 @@ const I18N = {
       cvSnapshot: "CV Snapshot",
       featuredWorks: "Featured Research",
       education: "Education",
-      currentRole: "Current Position",
+      currentRole: "Experience",
       aboutTitle: "About me",
       focusTitle: "What I work on",
       cards: {
@@ -128,7 +128,7 @@ const I18N = {
       kicker: "科研 × 技术 × 旅行",
       title: "封凡：计算生物学家，数据科学家，旅行爱好者。",
       subtitle:
-        "目前在范德堡大学医学中心（VUMC）从事AI+生物的交叉学科研究。业余时间热爱旅行，尝试解锁全世界。",
+        "我的研究在 AI 与生物的交叉领域：三维基因组、多重成像与胰岛生物学。业余时间热爱旅行，尝试解锁全世界。",
       ctaWorks: "查看科研",
       ctaNews: "最新动态",
       panelTitle: "个人信息",
@@ -137,7 +137,7 @@ const I18N = {
       cvSnapshot: "简历速览",
       featuredWorks: "代表性工作",
       education: "教育背景",
-      currentRole: "当前职位",
+      currentRole: "工作经历",
       aboutTitle: "关于我",
       focusTitle: "我的关注点",
       cards: {

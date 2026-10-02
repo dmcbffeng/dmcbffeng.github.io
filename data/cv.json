@@ -9,8 +9,8 @@
       "title": { "en": "Work Experience", "zh": "工作经历" },
       "items": [
         {
-          "en": "<b>Research Fellow / Data Scientist</b>, Department of Medicine, Vanderbilt University Medical Center (Feb 2024 – Present). Advisor: <a href=\"https://www.powersbrissovaresearch.org/\" target=\"_blank\" rel=\"noopener\">Dr. Marcela Brissova</a>.",
-          "zh": "<b>博士后研究员 / 数据科学家</b>，范德堡大学医学中心 药学系（2024年2月 – 至今）。导师：<a href=\"https://www.powersbrissovaresearch.org/\" target=\"_blank\" rel=\"noopener\">Marcela Brissova 教授</a>。"
+          "en": "<b>Research Fellow / Data Scientist</b>, Department of Medicine, Vanderbilt University Medical Center (Feb 2024 – Aug 2026). Advisor: <a href=\"https://www.powersbrissovaresearch.org/\" target=\"_blank\" rel=\"noopener\">Dr. Marcela Brissova</a>.",
+          "zh": "<b>博士后研究员 / 数据科学家</b>，范德堡大学医学中心 药学系（2024年2月 – 2026年8月）。导师：<a href=\"https://www.powersbrissovaresearch.org/\" target=\"_blank\" rel=\"noopener\">Marcela Brissova 教授</a>。"
         }
       ]
     },
@@ -57,6 +57,10 @@
         "zh": "发表论文（同行评审）"
       },
       "items": [
+        {
+          "en": "Zhang, Z., Huang, Y., <b>Feng, F.</b>, & Liu, J. (2026). A low-rank decoder bottleneck bounds reliability in foundation-model perturbation prediction. (Accepted at <i>NeurIPS 2026</i>)",
+          "zh": "Zhang, Z., Huang, Y., <b>Feng, F.</b>, & Liu, J. (2026). A low-rank decoder bottleneck bounds reliability in foundation-model perturbation prediction. (<i>NeurIPS 2026</i> 已接收 待发布)"
+        },
         {
           "en": "Saunders, D. C.*, <b>Feng, F.*</b>, Hopkirk, A. E.*, Aamodt, K. I.*, Hart, N.*, Pan, F. C.*, ..., Wright, C. V. E., Powers, A. C. & Brissova, M. (2024). Mapping histological and functional maturation of human endocrine pancreas across early postnatal periods. (Accepted in Principle by <i>Nature Communications</i>) (*co-first author)",
           "zh": "Saunders, D. C.*, <b>Feng, F.*</b>, Hopkirk, A. E.*, Aamodt, K. I.*, Hart, N.*, Pan, F. C.*, ..., Wright, C. V. E., Powers, A. C. & Brissova, M. (2024). Mapping histological and functional maturation of human endocrine pancreas across early postnatal periods. (<i>Nature Communications</i> 已接收 待发布) (*共同第一作者)"

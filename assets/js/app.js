@@ -14,13 +14,13 @@ const FALLBACK_DATA = {
   site: {
     profile: {
       name: { en: "Fan Feng", zh: "冯帆" },
-      role: { en: "Research Fellow", zh: "博士后研究员" },
+      role: { en: "Computational Biologist & Data Scientist", zh: "计算生物学家 / 数据科学家" },
       affiliation: {
-        en: "Vanderbilt University Medical Center",
-        zh: "范德堡大学医学中心",
+        en: "AI for Biomedicine · 3D Genomics · Islet Biology & Diabetes",
+        zh: "AI 与生物医学 · 三维基因组 · 胰岛生物学与糖尿病",
       },
       portrait: "assets/images/portrait/fan_portrait.jpg",
-      email: "fan.feng@vumc.org",
+      email: "ccmeffeng@gmail.com",
       socials: {
         scholar: "https://scholar.google.com/citations?user=1EXo-hIAAAAJ&hl=en",
         github: "https://github.com/dmcbffeng",
@@ -29,16 +29,16 @@ const FALLBACK_DATA = {
     },
     about: {
       en: [
-        "I'm a researcher at Vanderbilt University Medical Center working on computational biology, imaging, and machine learning for diabetes and pancreatic islets.",
+        "I'm a computational biologist and data scientist working on computational biology, imaging, and machine learning for diabetes and pancreatic islets.",
       ],
       zh: [
-        "我在范德堡大学医学中心（VUMC）做博士后研究，关注计算生物学、影像分析与机器学习。",
+        "我是一名计算生物学家 / 数据科学家，关注计算生物学、影像分析与机器学习。",
       ],
     },
     highlights: [
       {
-        en: "Research Fellow at Vanderbilt University Medical Center.",
-        zh: "范德堡大学医学中心 博士后研究员。",
+        en: "Computational biologist and data scientist working on AI for biomedicine.",
+        zh: "计算生物学家 / 数据科学家，研究 AI 与生物医学的交叉方向。",
       },
       {
         en: "Computational biology + imaging + ML for diabetes.",
